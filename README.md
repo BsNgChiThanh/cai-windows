@@ -108,7 +108,7 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 Đôi lúc bạn muốn xóa một file nào đó trong ổ đĩa của mình mà không xóa được, thật bực mình đúng không?
 
-**[Hãy tải và cài đặt nó để giải quyết vấn đề!](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/ESOkl2d-nVtGt_-v-BRUCCsBQbTF996jhvbKzK-2PQvWPQ?e=cOwoG8)**
+**[Hãy tải và cài đặt nó để giải quyết vấn đề!](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/ESOkl2d-nVtGt_-v-BRUCCsBQbTF996jhvbKzK-2PQvWPQ?e=cOwoG8)**, xem **[hướng dẫn sử dụng](https://thuthuat.taimienphi.vn/cai-dat-unlocker-xoa-file-cung-dau-880n.aspx)**
 
 ## 20. XÓA SẠCH VĨNH VIỄN CÁC FILE ##
 
