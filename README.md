@@ -104,7 +104,7 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 **[English Study Pro, có cả Streamline English, Here There, Interchange, NI Business](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Et1esrSHQ8BHjtm4LXRGV18BxakH7Xb1uUNeUxPz6pMTvA?e=0mtzVI)**
 
-**[hướng dẫn tích hợp giáo trình nghe vào English Study pro](https://kenhtuyensinh.vn/download-va-su-dung-giao-trinh-luyen-nghe-english-study-pro-2012)**
+**[Hướng dẫn cài đặt](https://tinhte.vn/thread/english-study-pro-2012-full-huong-dan-cai-dat-va-kich-hoat.2883734/)**, hướng dẫn tích hợp **[giáo trình nghe vào English Study pro](https://kenhtuyensinh.vn/download-va-su-dung-giao-trinh-luyen-nghe-english-study-pro-2012)**
 
 ## 19. XÓA CÁC FILE CỨNG ĐẦU ##
 
