@@ -48,7 +48,7 @@ Vào **Control Panel** các bạn có thể gỡ được, tuy nhiên đôi khi 
 
 Đôi khi một số phần mềm cần phải có file gỡ cài đặt chuyên dụng: Ví dụ: **[Avast antivirus](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/Edsjoms0QVVDgRNYDeqNWAMB05aEchSrPLfUkDgH-Q6qxQ?e=TzP5dk)** ...
 
-Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch nó mà thôi, ví dụ như Deepfreeze, khi cài rồi bạn muốn gỡ nó sạch sẽ thì phải dùng phần mềm cài đặt nó, bấm cài đặt, hệ thống sẽ báo phần mềm này đã cài đặt rồi! Bạn muốn gỡ nó không? Lúc này bạn chọn gỡ và click OK là hoàn tất.
+Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch nó mà thôi, ví dụ như **Deepfreeze**, khi cài rồi bạn muốn gỡ nó sạch sẽ thì phải dùng phần mềm cài đặt nó, bấm cài đặt, hệ thống sẽ báo phần mềm này đã cài đặt rồi! Bạn muốn gỡ nó không? Lúc này bạn chọn gỡ và click OK là hoàn tất. **Math type** cũng vậy!
 
 ## 8. ABBYY CHUYỂN ẢNH, PDF THÀNH WORD ##
 
