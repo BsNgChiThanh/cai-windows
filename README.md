@@ -56,7 +56,7 @@ Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch n
 
 ## 9. QUAY FILM MÀN HÌNH ##
 
-**[apowerrec](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ephu5YdVGQlEtybotvcfqm0B_9u9-rQKBm4hDigc_XaaIw?e=f20zG4)**
+**[apowerrec](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ephu5YdVGQlEtybotvcfqm0B_9u9-rQKBm4hDigc_XaaIw?e=f20zG4)**, xem hướng dẫn **[tại đây](https://tinhte.vn/thread/apowerrec-full-moi-nhat-2018-phan-mem-quay-man-hinh-tuyet-voi-cho-ban.2861099/)**
 
 ## 10. PHẦN MỀM PHỤC VỤ NGHIÊN CỨU KHOA HỌC ##
 
