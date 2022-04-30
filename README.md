@@ -38,7 +38,7 @@ Các Source nguồn như Windows, Office ...
 
 ## 6. ULTRAISO ##
 
-**[Phần mềm đọc file Iso](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnJVZ5h8CGdBqQeO-zqHcMMBoBbsKxyxFBfXZi1dgNhqCg?e=9lehV6)**
+**[Phần mềm đọc file Iso](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnJVZ5h8CGdBqQeO-zqHcMMBoBbsKxyxFBfXZi1dgNhqCg?e=9lehV6)**, xem hướng dẫn **[tại đây](http://thuthuatphanmem.vn/cach-dung-ultraiso-tu-a-z/)**
 
 ## 7. PHẦN MỀM GỠ CÀI ĐẶT ##
 
