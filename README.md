@@ -128,9 +128,11 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 ## 23. SAO LƯU OFFICE, WINDOWS, DRIVER, XÓA RÁC CHO Ổ ĐĨA C ##
 
-**[Dism++](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EQB4KlDiGk9Klcba8cvOcy4BNZXMJIGif035j07dgxoHJA?e=gbSxXj)**, hoặc **[Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)**
+**[Download Dism++](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EQB4KlDiGk9Klcba8cvOcy4BNZXMJIGif035j07dgxoHJA?e=gbSxXj)**, hoặc **[Download từ Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)**
 
 **[Hướng dẫn Backup và Restore với Dism++](https://www.dichvumaytinh247.com/2018/09/huong-dan-su-dung-dism-de-sao-luu-khoi-phuc-ban-quyen-windows-7-10-office-2010-2019-cac-phien-ban-volumemak.html)**
+
+**[Dùng Dism++ để sửa lỗi Windows](https://hotromicrosoft.com/su-dung-cong-cu-dism-de-sua-windows-bi-loi-3612/)**
 
 ## 24. PHẦN MỀM HỖ TRỢ TỪ XA ##
 
@@ -138,7 +140,7 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 (Sẽ cập nhật ảnh sau)
 
-**[Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)**
+**[Download Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)**
 
 **[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)** và **[hướng dẫn sử dụng anydesk](https://thuthuat.taimienphi.vn/cach-su-dung-anydesk-de-dieu-khien-may-tinh-tu-xa-49566n.aspx)**
 
