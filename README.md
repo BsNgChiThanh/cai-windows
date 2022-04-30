@@ -128,14 +128,15 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 ## 23. SAO LƯU OFFICE, WINDOWS, DRIVER, XÓA RÁC CHO Ổ ĐĨA C ##
 
-[Dism++](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EQB4KlDiGk9Klcba8cvOcy4BNZXMJIGif035j07dgxoHJA?e=gbSxXj), hoặc [Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
+**[Dism++](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EQB4KlDiGk9Klcba8cvOcy4BNZXMJIGif035j07dgxoHJA?e=gbSxXj)**, hoặc **[Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)**
 
 ## 24. PHẦN MỀM HỖ TRỢ TỪ XA ##
 
-[Download Teamviewer mới nhất tại trang chủ](https://www.teamviewer.com/vi/ta%CC%89i-ve/android/?previous_page=33124), bạn hãy tải một phiên bản phù hợp với máy tính của bạn, rồi cài đặt! Khi cài đặt nhớ bấm chọn 2 vị trí quan trọng như hình bên dưới sẽ được dùng free vĩnh viễn:
+**[Download Teamviewer mới nhất tại trang chủ](https://www.teamviewer.com/vi/ta%CC%89i-ve/android/?previous_page=33124)**, bạn hãy tải một phiên bản phù hợp với máy tính của bạn, rồi cài đặt! Khi cài đặt nhớ bấm chọn 2 vị trí quan trọng như hình bên dưới sẽ được dùng free vĩnh viễn:
 
 (Sẽ cập nhật ảnh sau)
 
-[Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)
+**[Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)**
 
+**[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)**
 
