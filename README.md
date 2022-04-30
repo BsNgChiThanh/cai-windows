@@ -88,7 +88,7 @@ Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đâ
 
 **[Math Type](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EngaQEk287VAnLBG5SBf7fABMMZO9FvvKqk6eulmFCueAA?e=smf6Iw)**
 
-Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đề cập đến Math Type tích hợp cho cả toán và hóa học.
+Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đề cập đến Math Type tích hợp cho cả toán và hóa học [bấm vào đây để tham khảo](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)
 
 # 16. MÁY TÍNH CASIO #
 
