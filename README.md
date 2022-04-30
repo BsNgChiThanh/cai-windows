@@ -124,7 +124,7 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu driver và bản quyền Windows, office của mình, nếu quên khi cài mới thiếu diver thì giải pháp dùng **[Easydrv7](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Es04kIshd7JHl-fsKSGUCvQBMorwCJ5O843yKHSqnFsp5g?e=fF18us)**
 
-Hoặc cũng có thể chọn driver online **[3DP Cheap]()**
+Hoặc cũng có thể chọn driver online **[3DP Chip](https://www.3dpchip.com/3dp/chip_down_lite.php?pl=vi)**
 
 ## 23. SAO LƯU OFFICE, WINDOWS, DRIVER, XÓA RÁC CHO Ổ ĐĨA C ##
 
