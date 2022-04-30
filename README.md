@@ -120,7 +120,15 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 **[Phục hồi chúng bằng Recuva](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EbTuOl05Y6tNuTnmxjmdX2IBKtXSjwORMf7rhlDDW5QJ8Q?e=26g4AF)**
 
-## 22. PHẦN MỀM HỖ TRỢ TỪ XA ##
+## 22. DRIVER OFFLINE ###
+
+(Đang cập nhật)
+
+## 23. SAO LƯU OFFICE, WINDOWS, DRIVER, XÓA RÁC CHO Ổ ĐĨA C ##
+
+[Dism++](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EQB4KlDiGk9Klcba8cvOcy4BNZXMJIGif035j07dgxoHJA?e=gbSxXj), hoặc [Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
+
+## 24. PHẦN MỀM HỖ TRỢ TỪ XA ##
 
 [Download Teamviewer mới nhất tại trang chủ](https://www.teamviewer.com/vi/ta%CC%89i-ve/android/?previous_page=33124), bạn hãy tải một phiên bản phù hợp với máy tính của bạn, rồi cài đặt! Khi cài đặt nhớ bấm chọn 2 vị trí quan trọng như hình bên dưới sẽ được dùng free vĩnh viễn:
 
