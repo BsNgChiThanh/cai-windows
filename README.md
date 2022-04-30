@@ -42,7 +42,7 @@ Các Source nguồn như Windows, Office ...
 
 ## 7. PHẦN MỀM GỠ CÀI ĐẶT ##
 
-Vào Control Panel các bạn có thể gỡ được, tuy nhiên đôi khi không gỡ sạch!
+Vào **Control Panel** các bạn có thể gỡ được, tuy nhiên đôi khi không gỡ sạch!
 
 **[UnIntaller Pro sẽ giải quyết điều này](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ej4IS2C9DYlChZ7d2m6rM-sBqqwPuCJMr1TeqahUCvnk2w?e=Xrx7HM)**
 
