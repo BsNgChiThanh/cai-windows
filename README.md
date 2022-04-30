@@ -32,9 +32,7 @@ Các Source nguồn như Windows, Office ...
 
 ## 5. BỘT FONT VNI ĐẦY ĐỦ ##
 
-**[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**
-
-**[Font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**
+**[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**, và **[font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**. Xem hướng dẫn **[tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
 
 ## 6. ULTRAISO ##
 
