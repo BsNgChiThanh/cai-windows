@@ -22,7 +22,7 @@ Các Source nguồn như Windows, Office ...
 
 # 3. WINZAR GIẢI NÉN #
 
-**[WinZar mơi nhất](https://github.com/BsNgChiThanh/Winzar)**
+**[WinZar mới nhất](https://github.com/BsNgChiThanh/Winzar)**
 
 # 4. BỘT UNIKEY PORTABLE MỚI NHẤT #
 
@@ -40,7 +40,7 @@ Các Source nguồn như Windows, Office ...
 
 # 7. PHẦN MỀM GỠ CÀI ĐẶT #
 
-Tuy vào Control Panel các bạn có thể gỡ được, nhưng đôi khi không gỡ sạch được!
+Vào Control Panel các bạn có thể gỡ được, tuy nhiên đôi khi không gỡ sạch!
 
 **[UnIntaller Pro](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ej4IS2C9DYlChZ7d2m6rM-sBqqwPuCJMr1TeqahUCvnk2w?e=Xrx7HM)**
 
@@ -80,13 +80,15 @@ Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đâ
 
 # 14. PHẦN MỀM HÌNH HỌC #
 
-**[Cabri II Plus Portal Hình học phẳng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmrELhPGCZdOgQdACbWVh4UB4vg1oT22ZskZencdIBforg?e=aaRTYo)**
+**[Cabri II Plus Portal - Hình học phẳng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmrELhPGCZdOgQdACbWVh4UB4vg1oT22ZskZencdIBforg?e=aaRTYo)**
 
-**[Cabri III Plus Portal Hình học không gian](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Ej_aFYpI6HdMl4shHgvTE9cBsm18BMgKtOmX6sIFYsM8LA?e=uFjzII)**
+**[Cabri III Plus Portal - Hình học không gian](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Ej_aFYpI6HdMl4shHgvTE9cBsm18BMgKtOmX6sIFYsM8LA?e=uFjzII)**
 
 # 15. PHẦN MỀM TẠO CÔNG THỨC TOÁN HỌC #
 
 **[Math Type](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/EngaQEk287VAnLBG5SBf7fABMMZO9FvvKqk6eulmFCueAA?e=smf6Iw)**
+
+Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đề cập đến Math Type tích hợp cho cả toán và hóa học.
 
 # 16. MÁY TÍNH CASIO #
 
