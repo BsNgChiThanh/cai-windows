@@ -86,7 +86,7 @@ Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đâ
 
 ## 15. PHẦN MỀM HÌNH HỌC ##
 
-**[Cabri II Plus Portal - Hình học phẳng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmrELhPGCZdOgQdACbWVh4UB4vg1oT22ZskZencdIBforg?e=aaRTYo)**
+**[Cabri II Plus Portal - Hình học phẳng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmrELhPGCZdOgQdACbWVh4UB4vg1oT22ZskZencdIBforg?e=aaRTYo)**, xem hướng dẫn **[tại đây](https://www.google.com/amp/s/quantrimang.com/cach-cai-dat-va-su-dung-phan-mem-ve-hinh-toan-hoc-cabri-ii-plus-155849%3fmode=amp)**
 
 **[Cabri III Plus Portal - Hình học không gian](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Ej_aFYpI6HdMl4shHgvTE9cBsm18BMgKtOmX6sIFYsM8LA?e=uFjzII)**
 
