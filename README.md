@@ -138,5 +138,5 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 **[Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)**
 
-**[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)**
+**[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)** và **[hướng dẫn sử dụng anydesk](https://thuthuat.taimienphi.vn/cach-su-dung-anydesk-de-dieu-khien-may-tinh-tu-xa-49566n.aspx)**
 
