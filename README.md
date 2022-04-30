@@ -20,6 +20,8 @@ Các Source nguồn như Windows, Office ...
 
 **[Một số Software khác](https://t.ly/UnUy)**
 
+**[Password giải nén nếu có của nguồn này](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)**
+
 ## 3. WINZAR GIẢI NÉN ##
 
 **[WinZar mới nhất](https://github.com/BsNgChiThanh/Winzar)**
