@@ -114,7 +114,7 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 Đôi khi bạn xóa một file nào đó thì file đó không xuất hiện trong ổ đĩa của bạn nhưng nó còn ở một vùng nào đó trong máy tính, để xóa sạch chúng thì phải làm sao?
 
-**[Tải dll Fixer Portal giải quyết vấn đề](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EV0vc6Klz0BIgGMW32_idIEB9RjxPAygqFz-0Ua4q3vNmA?e=Eg7rFg)**
+**[Tải dll Fixer Portal giải quyết vấn đề](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EV0vc6Klz0BIgGMW32_idIEB9RjxPAygqFz-0Ua4q3vNmA?e=Eg7rFg)**, ngoài ra nó còn một công dụng hữu ích nữa đó là **[khắc phục máy tính thiếu DLL](https://phanmemfree.org/sua-loi-thieu-file-dll-bang-dll-files-fixer-cho-may-tinh-laptop/)**
 
 ## 21. KHI LỞ TAY XÓA NHẦM MỘT FILE ##
 
