@@ -118,7 +118,7 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 ## 21. KHI LỞ TAY XÓA NHẦM MỘT FILE ##
 
-**[Phục hồi chúng bằng Recuva](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EbTuOl05Y6tNuTnmxjmdX2IBKtXSjwORMf7rhlDDW5QJ8Q?e=26g4AF)**
+**[Phục hồi chúng bằng Recuva](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EbTuOl05Y6tNuTnmxjmdX2IBKtXSjwORMf7rhlDDW5QJ8Q?e=26g4AF)**, hãy xem hướng dẫn **[sử dụng](https://tinhocvanphong.edu.vn/cach-su-dung-phan-mem-recuva/)**
 
 ## 22. DRIVER OFFLINE ###
 
