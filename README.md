@@ -130,6 +130,8 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 **[Dism++](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EQB4KlDiGk9Klcba8cvOcy4BNZXMJIGif035j07dgxoHJA?e=gbSxXj)**, hoặc **[Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)**
 
+**[Hướng dẫn Backup và Restore với Dism++](https://www.dichvumaytinh247.com/2018/09/huong-dan-su-dung-dism-de-sao-luu-khoi-phuc-ban-quyen-windows-7-10-office-2010-2019-cac-phien-ban-volumemak.html)**
+
 ## 24. PHẦN MỀM HỖ TRỢ TỪ XA ##
 
 **[Download Teamviewer mới nhất tại trang chủ](https://www.teamviewer.com/vi/ta%CC%89i-ve/android/?previous_page=33124)**, bạn hãy tải một phiên bản phù hợp với máy tính của bạn, rồi cài đặt! Khi cài đặt nhớ bấm chọn 2 vị trí quan trọng như hình bên dưới sẽ được dùng free vĩnh viễn:
