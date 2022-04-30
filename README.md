@@ -98,7 +98,7 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 ## 17. MÁY TÍNH CASIO ##
 
-**[Phần mềm tạo máy tính Casio](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaAK6pl0PD1PuOmT2SJ0X30BipeEbxqQ2dljgB0OeLkenA?e=T4G9ey)**
+**[Phần mềm tạo máy tính Casio](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaAK6pl0PD1PuOmT2SJ0X30BipeEbxqQ2dljgB0OeLkenA?e=T4G9ey)**, hướng dẫn **[cài đặt](https://timdapan.com/tai-lieu/huong-dan-cai-dat-ung-dung-gia-lap-may-tinh-casio-online-tren-pc-laptop)**
 
 ## 18. PHẦN MỀM HỌC TIẾNG ANH ##
 
