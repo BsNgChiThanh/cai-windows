@@ -8,11 +8,11 @@
 
 ## 2. DOWNLOAD CÁC SOURCE NGUỒN ##
 
-Các Source nguồn như Windows, Office ...
+Các Source nguồn như Windows, Office, adobe, vv ...
 
 **[Source Windows](https://t.ly/esO6)**
 
-**[Source Office](https://t.ly/C28N)**
+**[Source Office](https://t.ly/C28N)**, cài đặt và kích hoạt **[Office 365 for desktop](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
 
 **[Source AIO](https://t.ly/h09d)**
 
