@@ -24,7 +24,7 @@ Các Source nguồn như Windows, Office ...
 
 ## 3. WINZAR GIẢI NÉN ##
 
-**[WinZar mới nhất](https://github.com/BsNgChiThanh/Winzar)**
+**[WinZar mới nhất](https://github.com/BsNgChiThanh/Winzar)**, tham khảo hướng dẫn **[cài đặt](https://atpsoftware.vn/cach-cai-winrar-moi-nhat-2020-huong-dan-cai-dat.html)**
 
 ## 4. BỘT UNIKEY PORTABLE MỚI NHẤT ##
 
