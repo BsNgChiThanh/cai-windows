@@ -134,6 +134,8 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 ## 24. PHẦN MỀM TẠO MÁY ẢO ##
 
+Máy ảo dùng để tập cài Windows, Mac, Linux... ngoài ra còn tập cài phần mềm, kích hoạt phần mềm rất hữu ích! Ở một số nước trên thế giới họ còn sử dụng điều này như một phương pháp bảo mật tối ưu!!!
+
 - **VMWARE** có phí, nhưng chúng tôi share key kích hoạt!
 
 **[Github VMWare](https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad)**
