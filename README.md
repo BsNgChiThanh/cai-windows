@@ -134,15 +134,15 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 ## 24. PHẦN MỀM TẠO MÁY ẢO ##
 
-- **VMWARE**
-- 
+- **VMWARE** có phí, nhưng chúng tôi share key kích hoạt!
+
 **[Github VMWare](https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad)**
 
 **[Download VMWare 16](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Ep2M1_zBPlROq2TDqZkGMEEBZoFW8PFsNm6I__slitfgTw?e=Cw0Mhi)**
 
 **[Hướng dẫn cài Windows trên máy ảo](https://www.youtube.com/watch?v=mxlxxnoysww)**
 
-- **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**
+- **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)** hoàn toàn miễn phí (Free)!
 
 ![Screenshot 2022-05-05 151651](https://user-images.githubusercontent.com/82578024/166885930-86734654-7773-4567-8729-549f49690da6.gif)
 
