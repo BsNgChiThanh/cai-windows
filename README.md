@@ -132,13 +132,19 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 **[Hướng dẫn Backup và Restore với Dism++](https://www.dichvumaytinh247.com/2018/09/huong-dan-su-dung-dism-de-sao-luu-khoi-phuc-ban-quyen-windows-7-10-office-2010-2019-cac-phien-ban-volumemak.html)**, ngoài ra còn **[sửa lỗi Windows](https://hotromicrosoft.com/su-dung-cong-cu-dism-de-sua-windows-bi-loi-3612/)**, sử dụng để **[dọn rác cho windows](https://taiphanmempc.net/dism-download-dism-final.html)** (khắc phục ổ đĩa C bị đầy rất tuyệt vời).
 
-## 24. PHẦN MỀM VMWare (TẠO MÁY ẢO) ##
+## 24. PHẦN MỀM TẠO MÁY ẢO ##
 
+- **VMWARE**
+- 
 **[Github VMWare](https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad)**
 
 **[Download VMWare 16](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Ep2M1_zBPlROq2TDqZkGMEEBZoFW8PFsNm6I__slitfgTw?e=Cw0Mhi)**
 
 **[Hướng dẫn cài Windows trên máy ảo](https://www.youtube.com/watch?v=mxlxxnoysww)**
+
+- **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**
+
+![Screenshot 2022-05-05 151651](https://user-images.githubusercontent.com/82578024/166885930-86734654-7773-4567-8729-549f49690da6.gif)
 
 ## 25. PHẦN MỀM CỜ TƯỚNG GIẢI TRÍ INTELLA PORTABLE ##
 
