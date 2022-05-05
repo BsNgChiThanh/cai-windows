@@ -140,7 +140,7 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 **[Hướng dẫn cài Windows trên máy ảo](https://www.youtube.com/watch?v=mxlxxnoysww)**
 
-## 24. PHẦN MỀM CỜ TƯỚNG GIẢI TRÍ INTELLA PORTABLE ##
+## 25. PHẦN MỀM CỜ TƯỚNG GIẢI TRÍ INTELLA PORTABLE ##
 
 **[Bấm vào đây để download](https://github.com/BsNgChiThanh/Intella)**
 
