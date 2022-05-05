@@ -136,7 +136,15 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 **[Bấm vào đây để download](https://github.com/BsNgChiThanh/Intella)**
 
-## 25. PHẦN MỀM HỖ TRỢ TỪ XA ##
+## 25. PHẦN MỀM VMWare (PHẦN MỀM TẠO MÁY ẢO) ##
+
+**[Github VMWare](https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad)**
+
+**[Download VMWare 16](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/Ep2M1_zBPlROq2TDqZkGMEEBZoFW8PFsNm6I__slitfgTw?e=Cw0Mhi)**
+
+**[Hướng dẫn cài Windows trên máy ảo](https://www.youtube.com/watch?v=mxlxxnoysww)**
+
+## 26. PHẦN MỀM HỖ TRỢ TỪ XA ##
 
 **[Download Teamviewer mới nhất tại trang chủ](https://www.teamviewer.com/vi/ta%CC%89i-ve/android/?previous_page=33124)**, bạn hãy tải một phiên bản phù hợp với máy tính của bạn, rồi cài đặt! Khi cài đặt nhớ bấm chọn 2 vị trí quan trọng như hình bên dưới sẽ được dùng free vĩnh viễn:
 
