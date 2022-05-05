@@ -148,6 +148,8 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 ![Screenshot 2022-05-05 151651](https://user-images.githubusercontent.com/82578024/166885930-86734654-7773-4567-8729-549f49690da6.gif)
 
+**[Hướng dẫn cài windows trên virtualbox](https://wikimaytinh.com/cach-cai-win-10-tren-may-ao-virtualbox.html)**
+
 ## 25. PHẦN MỀM CỜ TƯỚNG GIẢI TRÍ INTELLA PORTABLE ##
 
 **[Bấm vào đây để download](https://github.com/BsNgChiThanh/Intella)**
