@@ -136,7 +136,7 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 **[Bấm vào đây để download](https://github.com/BsNgChiThanh/Intella)**
 
-## 25. PHẦN MỀM VMWare (PHẦN MỀM TẠO MÁY ẢO) ##
+## 25. PHẦN MỀM VMWare (TẠO MÁY ẢO) ##
 
 **[Github VMWare](https://gist.github.com/NSWG/2ad67111efb983c762e3425ff49ba2ad)**
 
