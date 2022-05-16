@@ -66,11 +66,11 @@ Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch n
 
 **[Tạo Office 365 A1 Plus](https://github.com/BsNgChiThanh/Office-365-A1-A1-Plus)**
 
-**[Kích hoạt Office bằng cmd và key](https://github.com/BsNgChiThanh/Kich-hoat-Office)**
+**[Kích hoạt Office bằng cmd](https://github.com/BsNgChiThanh/Kich-hoat-Office)**
 
 ## 12. KÍCH HOẠT WINDOWS ##
 
-**[Kích hoạt bằng Tool, cmd, key](https://github.com/BsNgChiThanh/Active-Windows-cmd)**
+**[Kích hoạt bằng Tool, cmd](https://github.com/BsNgChiThanh/Active-Windows)**
 
 ## 13. CÀI MÁY IN ##
 
