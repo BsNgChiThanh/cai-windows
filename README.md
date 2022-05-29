@@ -80,7 +80,7 @@ Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đâ
 
 ## 14. ĐỒ HỌA COREL ##
 
-**[Corel cài đặt và kích hoạt](https://github.com/BsNgChiThanh/Kich-hoat-Corel-2021)**
+**[Corel cài đặt và kích hoạt](https://github.com/BsNgChiThanh/Kich-hoat-Corel)**
 
 ## 15. PHẦN MỀM HÌNH HỌC ##
 
