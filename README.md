@@ -6,7 +6,9 @@
 
 **[Nguồn tạo boot và cách tạo boot bấm vào đây](https://github.com/BsNgChiThanh/USB-BOOT)**
 
-Cài lại Windows bằng WinToHDD không cần USB Boot, nhớ chọn Reinstall nếu chọn Newintall thì mất toàn bộ dữ liệu của những ổ đĩa nằm trên cùng một ổ cứng với ổ C, source nguồn từ https://bit.ly/3OmWoVg giải nén, chạy file _Cai dat.cmd và _Tao portable.cmd bằng quyền Run Administrator, sau đó cài WinToHDD 5.1 Technician.exe là có bản quyền
+Cài lại Windows bằng WinToHDD không cần USB Boot, nhớ chọn Reinstall nếu chọn Newintall thì mất toàn bộ dữ liệu của những ổ đĩa nằm trên cùng một ổ cứng với ổ C.
+
+Source nguồn từ https://bit.ly/3OmWoVg giải nén, chạy file _Cai dat.cmd và _Tao portable.cmd bằng quyền Run Administrator, sau đó cài WinToHDD 5.1 Technician.exe là có bản quyền
 
 https://youtu.be/xKrz201CTXY
 
