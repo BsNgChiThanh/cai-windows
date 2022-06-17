@@ -6,6 +6,10 @@
 
 **[Nguồn tạo boot và cách tạo boot bấm vào đây](https://github.com/BsNgChiThanh/USB-BOOT)**
 
+Cũng có thể cài lại windows bằng WinToHDD
+
+https://youtu.be/xKrz201CTXY
+
 ## 2. DOWNLOAD CÁC SOURCE NGUỒN ##
 
 Các Source nguồn như Windows, Office, adobe, vv ...
