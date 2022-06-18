@@ -6,9 +6,33 @@
 
 **[Nguồn tạo boot và cách tạo boot bấm vào đây](https://github.com/BsNgChiThanh/USB-BOOT)**
 
-Cài lại Windows bằng WinToHDD không cần USB Boot, nhớ chọn Reinstall phần mềm sẽ mặc định cài vào ổ C của chúng ta, nếu chọn Newintall thì mất toàn bộ dữ liệu của những ổ đĩa nằm trên cùng một ổ cứng với ổ C.
+Cài lại Windows bằng WinToHDD không cần USB Boot, **nhớ chọn Reinstall phần mềm sẽ mặc định cài vào ổ C của chúng ta**, nếu chọn **Newintall thì mất toàn bộ dữ liệu của những ổ đĩa nằm trên cùng một ổ cứng với ổ C, chúng gom tất cả các ổ này thành một và xóa sạch dữ liệu.**
 
-Source nguồn [WinToHDD bấm vào đây](https://bit.ly/3OmWoVg) giải nén, chạy file _Cai dat.cmd và _Tao portable.cmd bằng quyền Run Administrator, sau đó cài WinToHDD 5.1 Technician.exe là có bản quyền, xem video Reinstall máy tính bằng [WinToHDD bấm vào đây](https://youtu.be/xKrz201CTXY)
+![1](https://user-images.githubusercontent.com/82578024/174416556-4b2b24a8-4f58-4dae-b180-0f13f22d0f7e.gif)
+![1](https://user-images.githubusercontent.com/82578024/174416620-b1a7f77d-abcb-4093-a448-95da41359eb8.gif)
+
+Sau đó, click tiếp vào biểu tượng thư mục để tìm tới file ISO cài đặt Win.
+
+![image](https://user-images.githubusercontent.com/82578024/174416742-96e2e4d4-2d25-477f-95b4-a5d0cbe7a30a.png)
+
+![image](https://user-images.githubusercontent.com/82578024/174416727-44cce691-277b-4092-ae3f-6b8f8183f4c1.png)
+
+![image](https://user-images.githubusercontent.com/82578024/174416749-cd2109af-a7c1-40f4-8092-c8c43f763476.png)
+
+![image](https://user-images.githubusercontent.com/82578024/174416760-19071d28-5f7f-4bc5-aa8e-ffb028ded7d1.png)
+
+![image](https://user-images.githubusercontent.com/82578024/174416768-7a678c0c-1195-4913-bca4-cc89033dc2a4.png)
+
+Source nguồn [WinToHDD bấm vào đây](https://bit.ly/3OmWoVg) giải nén, chạy file _Cai dat.cmd và _Tao portable.cmd bằng quyền Run Administrator, sau đó cài WinToHDD 5.1 Technician.exe là có bản quyền
+
+![1](https://user-images.githubusercontent.com/82578024/174416193-9a0150c4-7196-406f-8d15-8c3425d54652.gif)
+![1](https://user-images.githubusercontent.com/82578024/174416341-f4e8ec52-ed7a-4fc5-bea1-1d4da14e326e.gif)
+![1](https://user-images.githubusercontent.com/82578024/174416369-488b388a-d6a3-4ace-9372-473ff0381d8a.gif)
+![1](https://user-images.githubusercontent.com/82578024/174416395-04713691-26db-4490-95f1-6b97a323f9bd.gif)
+![1](https://user-images.githubusercontent.com/82578024/174416418-ca693862-d1da-466b-99bc-f56fad92c6a4.gif)
+![1](https://user-images.githubusercontent.com/82578024/174416446-78aa7a0c-a14b-404a-b269-77253cbe5e55.gif)
+
+Xem video Reinstall máy tính bằng [WinToHDD bấm vào đây](https://youtu.be/xKrz201CTXY)
 
 ## 2. DOWNLOAD CÁC SOURCE NGUỒN ##
 
