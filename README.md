@@ -231,3 +231,4 @@ pause>NUL
 
 **[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)** và **[hướng dẫn sử dụng anydesk](https://thuthuat.taimienphi.vn/cach-su-dung-anydesk-de-dieu-khien-may-tinh-tu-xa-49566n.aspx)**
 
+**[Nút tắt mở máy tính trong windows10](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/El4uvl3DBdtJlGQmyJ593rEB79iCrv2N1K6gxP_PXOUgiQ?e=UN4n2a)**
