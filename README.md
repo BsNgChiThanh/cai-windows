@@ -192,6 +192,8 @@ Máy ảo dùng để tập cài Windows, Mac, Linux... ngoài ra còn tập cà
 
 **[Download Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)**
 
+**[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)** và **[hướng dẫn sử dụng anydesk](https://thuthuat.taimienphi.vn/cach-su-dung-anydesk-de-dieu-khien-may-tinh-tu-xa-49566n.aspx)**
+
 ## 27. Fix Icon ##
 
 Rồi một ngày đẹp trời các Icon trên màn hình desktop thay đổi giống một tờ giấy trắng, chúng ta sẽ fix nó như sau:
@@ -228,7 +230,5 @@ echo   Ban hay khoi dong lai may tinh de thiet lap duoc ap dung.
 echo   Nhan phim bat ki de thoat...
 pause>NUL
 ```
-
-**[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)** và **[hướng dẫn sử dụng anydesk](https://thuthuat.taimienphi.vn/cach-su-dung-anydesk-de-dieu-khien-may-tinh-tu-xa-49566n.aspx)**
 
 **[Nút tắt mở máy tính trong windows10](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/El4uvl3DBdtJlGQmyJ593rEB79iCrv2N1K6gxP_PXOUgiQ?e=UN4n2a)**
