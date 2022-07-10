@@ -232,3 +232,5 @@ pause>NUL
 ```
 
 **[Nút tắt mở máy tính trong windows10](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_tk/El4uvl3DBdtJlGQmyJ593rEB79iCrv2N1K6gxP_PXOUgiQ?e=UN4n2a)**
+
+**[Driver Dell 3443 Winows 10x64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EknlT1YCeYNPoO2jfVzL9vUB8nx0PPcxlI9aOuJSx0LoOw?e=0u6NDV)**
