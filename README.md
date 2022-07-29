@@ -23,6 +23,8 @@ Sau đó, click tiếp vào biểu tượng thư mục để tìm tới file ISO
 
 ![image](https://user-images.githubusercontent.com/82578024/174416768-7a678c0c-1195-4913-bca4-cc89033dc2a4.png)
 
+### SOURCE NGUỒN CÀ CÀI ĐẶT WinToHDD ###
+
 Source nguồn [WinToHDD bấm vào đây](https://bit.ly/3OmWoVg) giải nén, chạy file _Cai dat.cmd và _Tao portable.cmd bằng quyền Run Administrator, sau đó cài WinToHDD 5.1 Technician.exe là có bản quyền
 
 ![1](https://user-images.githubusercontent.com/82578024/174416193-9a0150c4-7196-406f-8d15-8c3425d54652.gif)
