@@ -191,6 +191,8 @@ Máy ảo dùng để tập cài Windows, Mac, Linux... ngoài ra còn tập cà
 
 ## 26. PHẦN MỀM HỖ TRỢ TỪ XA ##
 
+- **TEAMVIEWER**
+
 **[Download Teamviewer mới nhất tại trang chủ](https://www.teamviewer.com/vi/ta%CC%89i-ve/android/?previous_page=33124)**, bạn hãy tải một phiên bản phù hợp với máy tính của bạn, rồi cài đặt! Khi cài đặt nhớ bấm chọn 2 vị trí quan trọng như hình bên dưới sẽ được dùng free vĩnh viễn:
 
 ![1](https://user-images.githubusercontent.com/82578024/166132809-b2b2ccb4-d736-422c-b409-9e73cfdd96ad.jpg)
@@ -198,6 +200,14 @@ Máy ảo dùng để tập cài Windows, Mac, Linux... ngoài ra còn tập cà
 **[Download Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)**
 
 **[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)** và **[hướng dẫn sử dụng anydesk](https://thuthuat.taimienphi.vn/cach-su-dung-anydesk-de-dieu-khien-may-tinh-tu-xa-49566n.aspx)**
+
+- **ULTRAVIEWER**
+
+**[Download Ultraviewer mới nhất từ trang chủ](https://www.ultraviewer.net/en/download.html)**
+
+![image](https://user-images.githubusercontent.com/82578024/181714444-00e54374-4edb-4670-90ad-7019155039cb.png)
+
+![image](https://user-images.githubusercontent.com/82578024/181714690-4f8ab046-afcf-40b1-b1a3-e872cf85e908.png)
 
 ## 27. Fix Icon ##
 
