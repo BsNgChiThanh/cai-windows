@@ -8,8 +8,7 @@
 
 ### Cài lại Windows bằng WinToHDD không cần USB Boot (nhớ chọn Reinstall phần mềm sẽ mặc định cài vào ổ C của chúng ta, không chọn ~~New Installation~~ vì nó sẽ làm mất toàn bộ dữ liệu của những ổ đĩa nằm trên cùng một ổ cứng với ổ C, chúng gom tất cả các ổ này thành một và xóa sạch dữ liệu) ###
 
-![1](https://user-images.githubusercontent.com/82578024/174416556-4b2b24a8-4f58-4dae-b180-0f13f22d0f7e.gif)
-![1](https://user-images.githubusercontent.com/82578024/174416620-b1a7f77d-abcb-4093-a448-95da41359eb8.gif)
+![image](https://user-images.githubusercontent.com/82578024/181720394-c761e96e-28a7-43c3-adb7-61b8e0e3a4ca.png)
 
 Sau đó, click tiếp vào biểu tượng thư mục để tìm tới file ISO cài đặt Win.
 
