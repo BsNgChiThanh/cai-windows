@@ -51,6 +51,8 @@ Các Source nguồn như Windows, Office, adobe, vv ...
 
 **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)**
 
+**[Download Windows10 bằng MediaCreationTool 21H2](https://www.microsoft.com/en-au/software-download/windows10)**
+
 |Windows 10 LTSC|32Bit|64Bit|
 |--|--|--|
 |Windows_10_enterprise_LTSC_2021|[đây](https://bsthanh-my.sharepoint.com/personal/0914678254_bsthanh_tk/Documents/Forms/DispForm.aspx?ID=17700&web=1) hoặc [đây](https://pitvn-my.sharepoint.com/personal/billgates_pitvn_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbillgates%5Fpitvn%5Fonmicrosoft%5Fcom%2FDocuments%2FISO%2FWINDOWS%2FWindows%2010%2F21H2%2F21h2%20update%2020211116%20build%2019044%2E1288%2Fen%2Dus%5Fwindows%5F10%5Fenterprise%5Fltsc%5F2021%5Fx86%5Fdvd%5F9f4aa95f%5F2%2Eiso&parent=%2Fpersonal%2Fbillgates%5Fpitvn%5Fonmicrosoft%5Fcom%2FDocuments%2FISO%2FWINDOWS%2FWindows%2010%2F21H2%2F21h2%20update%2020211116%20build%2019044%2E1288&ga=1)|[đây](https://bsthanh-my.sharepoint.com/personal/0914678254_bsthanh_tk/Documents/Forms/DispForm.aspx?ID=17699&web=1) hoặc [đây](https://pvgcoenasik-my.sharepoint.com/personal/billgates_pvgcoenasik_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbillgates%5Fpvgcoenasik%5Fonmicrosoft%5Fcom%2FDocuments%2FISO%2FWINDOWS%2FWindows%2010%2F21H2%2F21h2%20update%2020211116%20build%2019044%2E1288%2Fen%2Dus%5Fwindows%5F10%5Fenterprise%5Fltsc%5F2021%5Fx64%5Fdvd%5Fd289cf96%5F2%2Eiso&parent=%2Fpersonal%2Fbillgates%5Fpvgcoenasik%5Fonmicrosoft%5Fcom%2FDocuments%2FISO%2FWINDOWS%2FWindows%2010%2F21H2%2F21h2%20update%2020211116%20build%2019044%2E1288&ga=1)|
