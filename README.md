@@ -62,7 +62,7 @@ Các Source nguồn như Windows, Office, adobe, vv ...
 
 |Tool download hoặc link|Windows|32Bit bản download sẵn|64Bit bản download sẵn|
 |--|--|--|--|
-|[Tool download](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZph2b9MsVFMsxlEfhPYJU4BDJ4_Pn3Ct-cDsc9acgLNCQ?e=eE2gFj)|Windows7|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZusTJfmPGJAnrSioAaC6AUBuPyY7vblHZw__GiELrU_ew?e=b3WWdP)|[Tại đây]()|
+|[Tool download](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZph2b9MsVFMsxlEfhPYJU4BDJ4_Pn3Ct-cDsc9acgLNCQ?e=eE2gFj)|Windows7|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZusTJfmPGJAnrSioAaC6AUBuPyY7vblHZw__GiELrU_ew?e=b3WWdP)|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZuMe5mp5W1EpKZ4XSZgkcsBdoGIpxswgaWCK-PITgSkFA?e=1w1ZIR)|
 |[MediaCreationTool21H2](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcW2uKEcWGdKhSF3HndGEb8Bv20VpouM3_dwlk-jXFnpwg?e=X0Tulz)|Windows10 Pro và Home|[Tại đây]()|[Tại đây]()|
 |[Link download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)|Windows10 Enterprise|[Tại đây]()|[Tại đây]()|
 |[Link download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)|Windows10 EnterpriseS (LTSC) 2021|[Tại đây]()|[Tại đây]()|
