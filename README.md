@@ -69,6 +69,9 @@ Các Source nguồn như Windows, Office, adobe, vv ...
 
 **[Hướng dẫn download windows10 tất cả các bản trong một](https://tinhte.vn/thread/cach-tai-file-iso-windows-10-truc-tiep-tu-microsoft-khong-can-key.3114586/)**
 
+1. [Windows10 32 Bit AIO](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EU1TeWCWF3xIk-wQSD3XAOQBbPVKs-zknxGKgJps2O1zOw?e=q7yG87)
+2. [Windows10 64 Bit AIO](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EY0T-3JZMNhMposoR68Bgu4BVnsK29-UoQMaPMmAloR3IQ?e=zmDE96)
+
 ## 3. WINZAR GIẢI NÉN ##
 
 **[WinZar mới nhất](https://github.com/BsNgChiThanh/Winzar)**, tham khảo hướng dẫn **[cài đặt](https://atpsoftware.vn/cach-cai-winrar-moi-nhat-2020-huong-dan-cai-dat.html)**
