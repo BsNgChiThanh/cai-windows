@@ -67,6 +67,8 @@ Các Source nguồn như Windows, Office, adobe, vv ...
 |[Link download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)|Windows10 Enterprise|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVrbjY764z5ElRQebXcfE2oBcR7uTuEFmIF6aPCiiifLeQ?e=Bb7lsg)|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ESkddL9Ti31IqIDo5Sdx-c8BgAJJA6KB-cTxsyJm_ZtZjw?e=JdZbB7)|
 |[Link download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)|Windows10 EnterpriseS (LTSC) 2021|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZrFruEJwENPids1I6A0NbQBwoO9cp4lw0O93TYyR8hKMQ?e=2pWW9r)|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ETKrzgP02GhCi4JDA1E_g4sBeNqy3r5w2voDaLLB3Hl15Q?e=8Nf2Ia)|
 
+**[Hướng dẫn download windows10 tất cả các bản](https://tinhte.vn/thread/cach-tai-file-iso-windows-10-truc-tiep-tu-microsoft-khong-can-key.3114586/)**
+
 ## 3. WINZAR GIẢI NÉN ##
 
 **[WinZar mới nhất](https://github.com/BsNgChiThanh/Winzar)**, tham khảo hướng dẫn **[cài đặt](https://atpsoftware.vn/cach-cai-winrar-moi-nhat-2020-huong-dan-cai-dat.html)**
