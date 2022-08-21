@@ -214,7 +214,7 @@ Máy ảo dùng để tập cài Windows, Mac, Linux... ngoài ra còn tập cà
 
 ![1](https://user-images.githubusercontent.com/82578024/166132809-b2b2ccb4-d736-422c-b409-9e73cfdd96ad.jpg)
 
-**[Download Anydesk Portable](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EeQM_2DdD1BAgWTjEWJ2MoQBMNaJ3gLDAFsJPRplzOixmQ?e=UTi5m3)**
+**[Download Anydesk Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsPU1fhK8LNArENNiPGGWeMBNvVV_Ws9Xtd1JeyyLWz2rA?e=D007VS)**
 
 **[Hướng dẫn Teamviewer](https://quantrimang.com/dieu-khien-may-tinh-tu-xa-voi-teamviewer-9-106917)** và **[hướng dẫn sử dụng anydesk](https://thuthuat.taimienphi.vn/cach-su-dung-anydesk-de-dieu-khien-may-tinh-tu-xa-49566n.aspx)**
 
