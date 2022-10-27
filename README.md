@@ -53,6 +53,8 @@ Các Source nguồn như Windows, Office, adobe, vv ...
 
 **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)**
 
+**Download Windows11 bằng MediaCreationTool 22H2 [tại đây](https://www.microsoft.com/software-download/windows11)**
+
 **Download Windows10 bằng MediaCreationTool 21H2 [tại đậy](https://www.microsoft.com/en-au/software-download/windows10) hoặc [tại đây](https://1drv.ms/u/s!Ao74wlrkLhtdpixisE3kg_1jUbbu?e=WNEplN)**
 
 |Windows 10 LTSC|32Bit|64Bit|
