@@ -1,6 +1,6 @@
 # Những tài nguyên cần thiết khi tiến hành cài windows #
 
-**[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiXvU0kbVAJPiqqi0tdklokBiAtupnt7qgnJQfe0oeEHCQ?e=JJ9N9E)**
+**[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiXvU0kbVAJPiqqi0tdklokBiAtupnt7qgnJQfe0oeEHCQ?e=yOE5vS)**
 
 ## 1. USB BOOT CỨU HỘ ##
 
