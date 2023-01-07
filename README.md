@@ -136,7 +136,7 @@ Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đâ
 
 **[Cabri II Plus Portal - Hình học phẳng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmrELhPGCZdOgQdACbWVh4UB4vg1oT22ZskZencdIBforg?e=aaRTYo)**, xem hướng dẫn **[tại đây](https://www.google.com/amp/s/quantrimang.com/cach-cai-dat-va-su-dung-phan-mem-ve-hinh-toan-hoc-cabri-ii-plus-155849%3fmode=amp)**
 
-**[Cabri 3d Portal - Hình học không gian](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Ej_aFYpI6HdMl4shHgvTE9cBsm18BMgKtOmX6sIFYsM8LA?e=uFjzII)**, xem hướng dẫn **[tại đây](https://www.google.com/amp/s/bibixps.wordpress.com/2009/05/09/h%25C6%25B0%25E1%25BB%259Bng-d%25E1%25BA%25ABn-s%25E1%25BB%25AD-d%25E1%25BB%25A5ng-cabri-3d-ch%25C6%25B0%25C6%25A1ng-3-cac-cong-c%25E1%25BB%25A5-c%25E1%25BB%25A7a-cabri-3d-v2/amp/)**
+**[Cabri 3d Portal - Hình học không gian](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EtJNt4RPWh9MmqonMZp64ykBWCJoOhmTRDee2bqHflhlHA?e=5gwe1z)**, xem hướng dẫn **[tại đây](https://www.google.com/amp/s/bibixps.wordpress.com/2009/05/09/h%25C6%25B0%25E1%25BB%259Bng-d%25E1%25BA%25ABn-s%25E1%25BB%25AD-d%25E1%25BB%25A5ng-cabri-3d-ch%25C6%25B0%25C6%25A1ng-3-cac-cong-c%25E1%25BB%25A5-c%25E1%25BB%25A7a-cabri-3d-v2/amp/)**
 
 ## 16. PHẦN MỀM TẠO CÔNG THỨC TOÁN HỌC ##
 
@@ -150,7 +150,7 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 ## 18. PHẦN MỀM HỌC TIẾNG ANH ##
 
-**[English Study Pro, có cả Streamline English, Here There, Interchange, NI Business](https://pwht-my.sharepoint.com/:f:/g/personal/a316_office365vn_online/Et1esrSHQ8BHjtm4LXRGV18BxakH7Xb1uUNeUxPz6pMTvA?e=0mtzVI)**
+**[English Study Pro, có cả Streamline English, Here There, Interchange, NI Business](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiKuOdexVbhGrMDnjv33czQB-x5aCz3ASqfi-IvgjtQf4w?e=RXtYYb)**
 
 **[Hướng dẫn cài đặt](https://tinhte.vn/thread/english-study-pro-2012-full-huong-dan-cai-dat-va-kich-hoat.2883734/)**, hướng dẫn tích hợp **[giáo trình nghe vào English Study pro](https://kenhtuyensinh.vn/download-va-su-dung-giao-trinh-luyen-nghe-english-study-pro-2012)**
 
@@ -158,17 +158,17 @@ Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đ�
 
 Đôi lúc bạn muốn xóa một file nào đó trong ổ đĩa của mình mà không xóa được, thật bực mình đúng không?
 
-**[Hãy tải và cài đặt nó để giải quyết vấn đề!](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/ESOkl2d-nVtGt_-v-BRUCCsBQbTF996jhvbKzK-2PQvWPQ?e=cOwoG8)**, xem **[hướng dẫn sử dụng](https://thuthuat.taimienphi.vn/cai-dat-unlocker-xoa-file-cung-dau-880n.aspx)**
+Tải và xem **[hướng dẫn sử dụng](https://thuthuat.taimienphi.vn/cai-dat-unlocker-xoa-file-cung-dau-880n.aspx)**
 
 ## 20. XÓA SẠCH VĨNH VIỄN CÁC FILE ##
 
 Đôi khi bạn xóa một file nào đó thì file đó không xuất hiện trong ổ đĩa của bạn nhưng nó còn ở một vùng nào đó trong máy tính, để xóa sạch chúng thì phải làm sao?
 
-**[Tải dll Fixer Portal giải quyết vấn đề](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EV0vc6Klz0BIgGMW32_idIEB9RjxPAygqFz-0Ua4q3vNmA?e=Eg7rFg)**, ngoài ra nó còn một công dụng hữu ích nữa đó là **[khắc phục máy tính thiếu DLL](https://phanmemfree.org/sua-loi-thieu-file-dll-bang-dll-files-fixer-cho-may-tinh-laptop/)**
+**[Tải dll Fixer Portal giải quyết vấn đề](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/ERWOF88RxktPg18ByE3PsnABFH12epvGBltuqyzkHlNPjg?e=7K1Iwv)**, ngoài ra nó còn một công dụng hữu ích nữa đó là **[khắc phục máy tính thiếu DLL](https://phanmemfree.org/sua-loi-thieu-file-dll-bang-dll-files-fixer-cho-may-tinh-laptop/)**
 
 ## 21. KHI LỞ TAY XÓA NHẦM MỘT FILE ##
 
-**[Phục hồi chúng bằng Recuva](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EbTuOl05Y6tNuTnmxjmdX2IBKtXSjwORMf7rhlDDW5QJ8Q?e=26g4AF)**, hãy xem hướng dẫn **[sử dụng](https://tinhocvanphong.edu.vn/cach-su-dung-phan-mem-recuva/)**
+**[Phục hồi chúng bằng Recuva](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/Edh6BeNCjDJNkdBr3kJMiacBL1GVIVB1IFVFVIuJGEwXlQ?e=0J5sZN)**, hãy xem hướng dẫn **[sử dụng](https://tinhocvanphong.edu.vn/cach-su-dung-phan-mem-recuva/)**
 
 ## 22. DRIVER OFFLINE ###
 
@@ -178,7 +178,7 @@ Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu d
 
 ## 23. SAO LƯU OFFICE, WINDOWS, DRIVER, XÓA RÁC CHO Ổ ĐĨA C ##
 
-**[Download Dism++](https://pwht-my.sharepoint.com/:u:/g/personal/a316_office365vn_online/EQB4KlDiGk9Klcba8cvOcy4BNZXMJIGif035j07dgxoHJA?e=gbSxXj)**, hoặc **[Download từ Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)**
+**[Download Dism++](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaTpfz_EnpxCnGShplEN2UYB0MnbG43YuwzX1ZbjB112uA?e=BdMxYl)**, hoặc **[Download từ Github Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)**
 
 **[Hướng dẫn Backup và Restore với Dism++](https://www.dichvumaytinh247.com/2018/09/huong-dan-su-dung-dism-de-sao-luu-khoi-phuc-ban-quyen-windows-7-10-office-2010-2019-cac-phien-ban-volumemak.html)**, ngoài ra còn **[sửa lỗi Windows](https://hotromicrosoft.com/su-dung-cong-cu-dism-de-sua-windows-bi-loi-3612/)**, sử dụng để **[dọn rác cho windows](https://taiphanmempc.net/dism-download-dism-final.html)** (khắc phục ổ đĩa C bị đầy rất tuyệt vời).
 
