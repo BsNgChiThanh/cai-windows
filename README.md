@@ -268,3 +268,14 @@ pause>NUL
 **[Driver Laptop Dell 3443 Winows 10x64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EknlT1YCeYNPoO2jfVzL9vUB8nx0PPcxlI9aOuJSx0LoOw?e=0u6NDV)**
 
 **[Driver Laptop Xiaomi mibook 12.5 Windows 10x64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EoDrLo0tvixEvhkarDi7C0YBzuLNElJDaAiu70ja5AJNHg?e=SPrhRQ)**
+
+# NOTES: #
+
+1. [Download Zoom Clound Meeting từ trang chủ](https://zoom.us/support/download?)
+2. [Download Unikey Portal từ trang chủ](https://www.unikey.org)
+3. [Download WinZar từ trang chủ](https://www.rarlab.com/download.htm)
+4. [Download Ultra Viewer từ trang chủ](https://www.ultraviewer.net/en/download.html)
+5. [Download Anydesk từ trang chủ](https://anydesk.com/en)
+7. [Download TeamViewer từ trang chủ](https://www.teamviewer.com/vi/ta%CC%89i-ve/windows/)
+8. [Download Virtualbox từ trang chủ](https://www.virtualbox.org/wiki/Download_Old_Builds_6_0)
+9. [Download Zalo cho PC từ trang chủ](https://zalo.me/pc)
