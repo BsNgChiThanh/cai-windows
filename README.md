@@ -286,7 +286,7 @@ pause>NUL
 14. [Download Windows Server 2022](https://www.microsoft.com/en-us/windows-server/trial)
 15. [Download Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019-essentials)
 16. [Download Windows Server 2016](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016-essentials)
-17. [Download Source Office tất cả các bản](https://tb.rg-adguard.net/public.php)
+17. [Download Source Office và Windows tất cả các bản](https://tb.rg-adguard.net/public.php)
 18. Cài đặt Office 2021 Online:
     - [Setup 2021 Prolus LTSC 64Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495184/OfficeSetup2021ProlusLTSC_64Bit.zip)
     - [Setup 2021 Prolus LTSC 32Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495186/OfficeSetup2021ProlusLTSC_32Bit.zip)
