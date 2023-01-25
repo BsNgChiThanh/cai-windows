@@ -287,14 +287,19 @@ pause>NUL
 15. [Download Windows Server 2019](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019-essentials)
 16. [Download Windows Server 2016](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016-essentials)
 17. [Download Source Office và Windows tất cả các bản](https://tb.rg-adguard.net/public.php)
-18. Cài đặt Office 2021 Online:
-    - [Setup 2021 Prolus LTSC 64Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495184/OfficeSetup2021ProlusLTSC_64Bit.zip)
-    - [Setup 2021 Prolus LTSC 32Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495186/OfficeSetup2021ProlusLTSC_32Bit.zip)
-19. Cài đặt Office 2019 Online:
-    - [setup Proplus 2019 retail 64Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495250/setupProplus2019retail.x64Bit.zip)
-    - [setup Proplus 2019 retail 32Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495238/setupProplus2019retail.x32Bit.zip)
-20. Cài đặt Ofice 365 Online:
+18. Cài đặt Office Online mọi phiên bản:
+    - Download về rồi chạy Portal cài đặt: [bấm vào đây](https://otp.landian.vip/en-us/download.html)
+19. Cài đặt Ofice 365 Online:
     - [Setup 365 Enterprise 64Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495280/OfficeSetup365Enterprise_64Bit.zip)
     - [Setup 365 Enterprise 32Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495271/OfficeSetup365Enterprise_32Bit.zip)
-21. Cài đặt Office Online mọi phiên bản:
-    - Download về rồi chạy Portal cài đặt: [bấm vào đây](https://otp.landian.vip/en-us/download.html)
+20. Cài đặt Office 2021 Online:
+    - [Setup 2021 Prolus LTSC 64Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495184/OfficeSetup2021ProlusLTSC_64Bit.zip)
+    - [Setup 2021 Prolus LTSC 32Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495186/OfficeSetup2021ProlusLTSC_32Bit.zip)
+21. Cài đặt Office 2019 Online:
+    - [setup Proplus 2019 retail 64Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495250/setupProplus2019retail.x64Bit.zip)
+    - [setup Proplus 2019 retail 32Bit](https://github.com/BsNgChiThanh/cai-windows/files/10495238/setupProplus2019retail.x32Bit.zip)
+22. Download Office 2016:
+    - [Office 2016 32 Bit](https://www.microsoft.com/en-us/download/details.aspx?id=49164)
+23. Download Office 2013:
+    - [Office 2013 64 Bit](https://www.microsoft.com/en-US/download/details.aspx?id=42006)
+    - [Office 2013 32 Bit](https://www.microsoft.com/en-US/download/details.aspx?id=42017)
