@@ -196,7 +196,7 @@ Máy ảo dùng để tập cài Windows, Mac, Linux... ngoài ra còn tập cà
 
 - **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)** hoàn toàn miễn phí (Free)!
 
-**[Bấm vào đây làm theo hình bên dưới để tải về](https://www.virtualbox.org/wiki/Downloads)**
+**[Bấm vào đây làm theo hình bên dưới để tải về](https://www.virtualbox.org/wiki/Downloads)** hoặc bấm vào link sau để tải bản virtualbox 7.0.6 https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe
 
 ![Screenshot 2022-05-05 151651](https://user-images.githubusercontent.com/82578024/166885930-86734654-7773-4567-8729-549f49690da6.gif)
 
