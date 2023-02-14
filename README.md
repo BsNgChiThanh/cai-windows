@@ -264,6 +264,10 @@ echo   Nhan phim bat ki de thoat...
 pause>NUL
 ```
 
+## 28. IDM (Internet Download Manager) ##
+
+- Download IDM từ trang chủ [bấm vào đây](https://www.internetdownloadmanager.com/download.html), tool active bằng cmd của PITVN [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EgvL-yBwO_5Brw6qzXBgNbABe2mGUlhNM8_LilqzsNuyZQ?e=8zFUJB)
+
 **[Nút tắt mở máy tính trong windows10](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/El4uvl3DBdtJlGQmyJ593rEB79iCrv2N1K6gxP_PXOUgiQ?e=UN4n2a)**
 
 **[Driver Laptop Dell 3443 Winows 10x64](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EknlT1YCeYNPoO2jfVzL9vUB8nx0PPcxlI9aOuJSx0LoOw?e=0u6NDV)**
