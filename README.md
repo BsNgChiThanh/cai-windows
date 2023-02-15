@@ -267,6 +267,9 @@ pause>NUL
 ## 28. IDM (Internet Download Manager) ##
 
 - Download IDM từ trang chủ [bấm vào đây](https://www.internetdownloadmanager.com/download.html), tool active bằng cmd của PITVN [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EgvL-yBwO_5Brw6qzXBgNbABe2mGUlhNM8_LilqzsNuyZQ?e=8zFUJB)
+- Khi nó bị lỗi Fake key thì chạy lại file kích hoạt
+- ![image](https://user-images.githubusercontent.com/82578024/219040187-e414220b-ccb7-433e-a766-4ff593095389.png)
+- Thay vì bấm phím 1 thì bây giờ bấm phím 2.
 
 # NOTES: #
 
