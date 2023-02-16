@@ -271,6 +271,16 @@ pause>NUL
 - ![image](https://user-images.githubusercontent.com/82578024/219040187-e414220b-ccb7-433e-a766-4ff593095389.png)
 - Thay vì bấm phím 1 thì bây giờ bấm phím 2.
 
+Cài xong mởi IDM lên chỉnh thêm:
+
+- Vô mụcb Download chọn Option
+![image](https://user-images.githubusercontent.com/82578024/219293869-c017dc84-f0fa-48b7-81f0-c725b33dacdb.png)
+![image](https://user-images.githubusercontent.com/82578024/219294320-c58a00b5-d0ad-4897-87d7-a56f513340fb.png)
+![image](https://user-images.githubusercontent.com/82578024/219294530-0cf4ce34-86fa-4ab7-94ce-c6e702a7f0dc.png)
+![image](https://user-images.githubusercontent.com/82578024/219294741-b5dea01a-df27-4a1a-bf32-082308a470af.png)
+
+Nếu không có phần mở rộng của tẹp cần download thì thêm vô, vậy là hoàn tất!
+
 # NOTES: #
 
 - **[Nút tắt mở máy tính trong windows10](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/El4uvl3DBdtJlGQmyJ593rEB79iCrv2N1K6gxP_PXOUgiQ?e=UN4n2a)**
