@@ -102,11 +102,11 @@ Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch n
 
 **[ABBYY](https://github.com/BsNgChiThanh/ABBYY)**
 
-## 9. QUAY FILM MÀN HÌNH, CẮT GHÉP VIDEO, CONVERT VIDEO ##
+## 9. QUAY FILM MÀN HÌNH, CẮT GHÉP VIDEO, XEM VIDEO VỚI MỌI ĐUÔI VÀ CONVERT VIDEO ##
 
 - **[Quay Film màn hình với Apowerrec](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ephu5YdVGQlEtybotvcfqm0B_9u9-rQKBm4hDigc_XaaIw?e=f20zG4)**, xem hướng dẫn **[tại đây](https://tinhte.vn/thread/apowerrec-full-moi-nhat-2018-phan-mem-quay-man-hinh-tuyet-voi-cho-ban.2861099/)**
 - Quay Film màn hình và cắt ghép Video dung lượng cao: **[Camtasia Crack](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuSYntdTEDdAu6J4fNMQgkEBpmQC-KMeYWuf8KJg7rT98w?e=4Qp2DM)** hướng dẫn sử dụng **[bấm vào đây](https://tuhocdohoa.vn/huong-dan-su-dung-camtasia/)**
-- Convert Video với: **[ToTal Video Converter 3.71](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eg_sqHU23AZMp600GJnhcNEBkaUh7aP4dtsyH6csuS6FRw?e=Nz06aq)** đọc hướng dẫn [tại đây](https://download123.vn/download-total-video-converter-full-key/) nếu bạn download source từ trang này thì pass giải nén là 112211
+- Xem Video với mọi đuôi, Convert Video với: **[ToTal Video Converter 3.71](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eg_sqHU23AZMp600GJnhcNEBkaUh7aP4dtsyH6csuS6FRw?e=Nz06aq)** đọc hướng dẫn [tại đây](https://download123.vn/download-total-video-converter-full-key/) nếu bạn download source từ trang này thì pass giải nén là 112211
 
 ## 10. PHẦN MỀM PHỤC VỤ NGHIÊN CỨU KHOA HỌC ##
 
