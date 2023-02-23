@@ -288,6 +288,10 @@ Cài xong mởi IDM lên chỉnh thêm:
 
 Nếu không có phần mở rộng của tẹp cần download thì thêm vô, vậy là hoàn tất!
 
+## 29. ExpanDrive - Phần mềm biến ổ mây thành ổ cứng ##
+
+Download, cài đặt và hướng dẫn sử dụng [Bấm vào đây](https://github.com/BsNgChiThanh/ExpanDrive/blob/IMP/README.md)
+
 # NOTES: #
 
 - **[Nút tắt mở máy tính trong windows10](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/El4uvl3DBdtJlGQmyJ593rEB79iCrv2N1K6gxP_PXOUgiQ?e=UN4n2a)**
