@@ -142,9 +142,10 @@ Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đâ
 
 ## 16. PHẦN MỀM TẠO CÔNG THỨC TOÁN HỌC ##
 
-**[Math Type](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EsYmJ4ZnwXlEmSrlfXN3hVEBSQAfcGmCODTb3Hie9Igr7A?e=Yggcur)**, hướng dẫn **[cài đặt](https://dichvudanhvanban.com/cai-dat-mathtype-7-4-full-ban-quyen-su-dung-vinh-vien-soan-thao-cong-thuc-toan-368#:~:text=%C4%91%E1%BA%B7t%20v%C3%A0%20crack.-,B%E1%BA%AFt%20%C4%91%E1%BA%A7u%20c%C3%A0i%20%C4%91%E1%BA%B7t%20MathType%207.4%20Full%20b%E1%BA%A3n%20quy%E1%BB%81n.,l%C3%A0%20ho%C3%A0n%20t%E1%BA%A5t%20c%C3%A0i%20%C4%91%E1%BA%B7t.)**
-
-Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đề cập đến Math Type tích hợp cho cả toán và hóa học **[bấm vào đây để tham khảo](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
+- **[Math Type](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EsYmJ4ZnwXlEmSrlfXN3hVEBSQAfcGmCODTb3Hie9Igr7A?e=Yggcur)**.
+- Hướng dẫn **[cài đặt](https://dichvudanhvanban.com/cai-dat-mathtype-7-4-full-ban-quyen-su-dung-vinh-vien-soan-thao-cong-thuc-toan-368#:~:text=%C4%91%E1%BA%B7t%20v%C3%A0%20crack.-,B%E1%BA%AFt%20%C4%91%E1%BA%A7u%20c%C3%A0i%20%C4%91%E1%BA%B7t%20MathType%207.4%20Full%20b%E1%BA%A3n%20quy%E1%BB%81n.,l%C3%A0%20ho%C3%A0n%20t%E1%BA%A5t%20c%C3%A0i%20%C4%91%E1%BA%B7t.)**
+- Nếu bạn dùng Office 365 khuyên nên dùng Office 365 E5 vì tôi đã đề cập đến Math Type tích hợp cho cả toán và hóa học **[bấm vào đây để tham khảo](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
+- Hoặc vào link github: https://github.com/BsNgChiThanh/MathType
 
 ## 17. MÁY TÍNH CASIO ##
 
