@@ -1,8 +1,10 @@
+Tác giả: Nguyễn Chí Thành 
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231742838-ac83d773-07c4-4fd9-bbd3-7b2d8c6f5c35.jpg)
+
 # Những tài nguyên cần thiết khi tiến hành cài windows #
 
 **[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBiAtupnt7qgnJQfe0oeEHCQ?e=yOE5vS)**
-
-![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231742838-ac83d773-07c4-4fd9-bbd3-7b2d8c6f5c35.jpg)
 
 ## 1. USB BOOT CỨU HỘ ##
 
