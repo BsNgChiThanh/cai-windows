@@ -110,6 +110,11 @@ Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch n
 
 - **[Quay Film màn hình với Apowerrec](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ephu5YdVGQlEtybotvcfqm0B_9u9-rQKBm4hDigc_XaaIw?e=f20zG4)**, xem hướng dẫn **[tại đây](https://tinhte.vn/thread/apowerrec-full-moi-nhat-2018-phan-mem-quay-man-hinh-tuyet-voi-cho-ban.2861099/)**
 - Quay Film màn hình và cắt ghép Video dung lượng cao: **[Camtasia Crack](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuSYntdTEDdAu6J4fNMQgkEBpmQC-KMeYWuf8KJg7rT98w?e=4Qp2DM)** hướng dẫn sử dụng **[bấm vào đây](https://tuhocdohoa.vn/huong-dan-su-dung-camtasia/)**
+- Khi cài Camtasia báo lỗi C++ thì quí vị gỡ C++ đi, sau đó vào Regedit, mở thư mục theo đường dẫn **Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Installer\Products\** sau đó click vào từng thư mục con, nếu thấy thư mục nào có phần C++ thì xóa chúng đi.
+
+  ![image](https://user-images.githubusercontent.com/82578024/232494391-317df2d4-bce3-4bf4-977b-b2bcc0cb41ef.png)
+
+- Sau đó cài lại C++ download [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdSZVUQCGP5Eo1u5nQDMOj8B5rkTv0ZnDiPWpNHZr-2ErA?e=nKWX35)
 - Xem Video với mọi đuôi, Convert Video với: **[ToTal Video Converter 3.71](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eg_sqHU23AZMp600GJnhcNEBkaUh7aP4dtsyH6csuS6FRw?e=Nz06aq)** đọc hướng dẫn [tại đây](https://download123.vn/download-total-video-converter-full-key/) nếu bạn download source từ trang này thì pass giải nén là 112211 **(Lưu ý: file và thư mục lưu phải hoàn toàn không dấu, không kí tự đặc biệt)**, có thể chuyển file video sang định dạng *.ts định dạng này có độ nén cao, 1 Gb file dạng ts chuyển sang dạng mp4 thì dung lượng lên đến độ khoản 2,4 Gb.
 
 ## 10. PHẦN MỀM PHỤC VỤ NGHIÊN CỨU KHOA HỌC ##
