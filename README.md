@@ -114,7 +114,7 @@ Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch n
 
   ![image](https://user-images.githubusercontent.com/82578024/232494391-317df2d4-bce3-4bf4-977b-b2bcc0cb41ef.png)
 
-- Sau đó cài lại C++ download [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdSZVUQCGP5Eo1u5nQDMOj8B5rkTv0ZnDiPWpNHZr-2ErA?e=nKWX35)
+- Sau đó cài lại C++ download [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdSZVUQCGP5Eo1u5nQDMOj8B5rkTv0ZnDiPWpNHZr-2ErA?e=nKWX35) hoặc từ [trang chủ](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 - Cài mới C++ xong, quí vị cài lại Camtasia bình thường.
 - Xem Video với mọi đuôi, Convert Video với: **[ToTal Video Converter 3.71](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eg_sqHU23AZMp600GJnhcNEBkaUh7aP4dtsyH6csuS6FRw?e=Nz06aq)** đọc hướng dẫn [tại đây](https://download123.vn/download-total-video-converter-full-key/) nếu bạn download source từ trang này thì pass giải nén là 112211 **(Lưu ý: file và thư mục lưu phải hoàn toàn không dấu, không kí tự đặc biệt)**, có thể chuyển file video sang định dạng *.ts định dạng này có độ nén cao, 1 Gb file dạng ts chuyển sang dạng mp4 thì dung lượng lên đến độ khoản 2,4 Gb.
 
@@ -348,3 +348,4 @@ Download, cài đặt và hướng dẫn sử dụng [Bấm vào đây](https://
     - [Bấm vào đây](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=857193120&single=true)  
     - [Adobe](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=319479673&single=true)
     - [Mọi phần mềm](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml#)
+36. [Download C++](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170)
