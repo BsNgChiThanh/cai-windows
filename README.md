@@ -303,6 +303,8 @@ Nếu không có phần mở rộng của tẹp cần download thì thêm vô, v
 
 Download, cài đặt và hướng dẫn sử dụng [Bấm vào đây](https://github.com/BsNgChiThanh/ExpanDrive/blob/IMP/README.md)
 
+# [BẤM VÀO ĐÂY, NẾU MUỐN ỦNG HỘ SỰ HOẠT ĐỘNG CỦA KÊNH](https://me.momo.vn/OeIRuaTbfqsmFyiataCM/MvbmqGVrVjLpbYA) #
+
 # NOTES: #
 
 - **[Nút tắt mở máy tính trong windows10](https://bsthanh-my.sharepoint.com/:f:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/El4uvl3DBdtJlGQmyJ593rEB79iCrv2N1K6gxP_PXOUgiQ?e=UN4n2a)**
