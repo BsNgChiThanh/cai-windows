@@ -6,6 +6,14 @@ Tác giả: Nguyễn Chí Thành
 
 **[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBiAtupnt7qgnJQfe0oeEHCQ?e=yOE5vS)**
 
+# Ghi chú #
+
+- Khi cài Windows mà đĩa C trước đó có chạy Deep Freeze thì rất khó chịu, đôi lúc cài Windows xong phân vùng ổ đĩa kế tiếp của đĩa cài Windows sẽ bị đóng băng.
+- Giải pháp khắc phục:
+  - Dùng Partition Wizard chia thêm một phân vùng nhỏ thôi khoản 5Gb liền kề phân vùng ổ đĩa trước khi format phân vùng cài Windows mới.
+  - Cài xong thì dùng Partition Wizard dell phân vùng 5Gb vừa tạo để gọp vào đĩa Windows.
+  - Xong! 
+
 ## 1. USB BOOT CỨU HỘ ##
 
 Đây là món không thể thiếu trong sự nghiệp cài widows của bạn!
