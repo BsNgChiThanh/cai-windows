@@ -34,16 +34,9 @@ Sau đó, click tiếp vào biểu tượng thư mục để tìm tới file ISO
 
 ![image](https://user-images.githubusercontent.com/82578024/174416768-7a678c0c-1195-4913-bca4-cc89033dc2a4.png)
 
-### SOURCE NGUỒN CÀ CÀI ĐẶT WinToHDD ###
+### [SOURCE NGUỒN CÀ CÀI ĐẶT WinToHDD](https://github.com/BsNgChiThanh/WintoHDD) ###
 
 Source nguồn [WinToHDD bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EijbbkIpIYFLqjZg2hFsA-gBiK4_Tv5eQgUBwz5DgnK6oA?e=cTACgT) giải nén, chạy file _Cai dat.cmd và _Tao portable.cmd bằng quyền Run Administrator, sau đó cài WinToHDD 5.1 Technician.exe là có bản quyền
-
-![1](https://user-images.githubusercontent.com/82578024/174416193-9a0150c4-7196-406f-8d15-8c3425d54652.gif)
-![1](https://user-images.githubusercontent.com/82578024/174416341-f4e8ec52-ed7a-4fc5-bea1-1d4da14e326e.gif)
-![1](https://user-images.githubusercontent.com/82578024/174416369-488b388a-d6a3-4ace-9372-473ff0381d8a.gif)
-![1](https://user-images.githubusercontent.com/82578024/174416395-04713691-26db-4490-95f1-6b97a323f9bd.gif)
-![1](https://user-images.githubusercontent.com/82578024/174416418-ca693862-d1da-466b-99bc-f56fad92c6a4.gif)
-![1](https://user-images.githubusercontent.com/82578024/174416446-78aa7a0c-a14b-404a-b269-77253cbe5e55.gif)
 
 - **Nhớ tắt hết phần mềm virus.**
 - **Tắt Windows Depender.**
