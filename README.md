@@ -357,3 +357,24 @@ Download, cài đặt và hướng dẫn sử dụng [Bấm vào đây](https://
     - [Mọi phần mềm](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml#)
 36. [Download C++](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 37. [Google drive](https://www.google.com/drive/download/)
+
+## WINDOWS 10 VÀ WINDOWS 11 ##
+
+- Không nên cài đặt Windows 11 trên thiết bị không đáp ứng yêu cầu hệ thống tối thiểu của Windows 11. Nếu chọn cài đặt Windows 11 trên phần cứng không đủ điều kiện, bạn nên thoải mái chấp nhận rủi ro gặp phải sự cố tương thích.
+- Thiết bị của bạn có thể gặp trục trặc do khả năng tương thích này hoặc các vấn đề khác. Các thiết bị không đáp ứng các yêu cầu hệ thống này sẽ không còn được đảm bảo nhận được các bản cập nhật, bao gồm nhưng không giới hạn ở các bản cập nhật bảo mật.
+- Tuyên bố từ chối trách nhiệm sau đây sẽ áp dụng nếu bạn cài đặt Windows 11 trên thiết bị không đáp ứng các yêu cầu hệ thống tối thiểu:
+- PC này không đáp ứng các yêu cầu hệ thống tối thiểu để chạy Windows 11 - những yêu cầu này giúp đảm bảo trải nghiệm đáng tin cậy hơn và chất lượng cao hơn. Không nên cài đặt Windows 11 trên PC này và có thể dẫn đến sự cố tương thích. Nếu bạn tiếp tục cài đặt Windows 11, PC của bạn sẽ không còn được hỗ trợ và không được quyền nhận các bản cập nhật. Những hư hỏng đối với PC của bạn do thiếu khả năng tương thích không được bảo hành theo bảo hành của nhà sản xuất.
+
+### Before you install Windows 11 ###
+
+Nếu không chắc chắn liệu thiết bị của mình có đáp ứng các yêu cầu hệ thống tối thiểu của Windows 11 hay không và đã cài đặt Windows 10, bạn có thể tải xuống ứng dụng PC Health Check. Ứng dụng này sẽ đánh giá tính đủ điều kiện và xác định các thành phần của thiết bị không đáp ứng các yêu cầu tối thiểu. Ứng dụng cũng sẽ liên kết đến thông tin chi tiết các bước bạn có thể thực hiện để giúp thiết bị của bạn đáp ứng các yêu cầu hệ thống tối thiểu. Để tìm hiểu thêm, hãy tải xuống và cài đặt ứng dụng PC Health Check.
+
+### After you install Windows 11 ###
+
+- Khi Windows 11 được cài đặt trên thiết bị không đáp ứng các yêu cầu hệ thống tối thiểu, chúng tôi sẽ thông báo cho bạn bằng hình mờ trên màn hình Windows 11 của bạn. Bạn cũng có thể thấy thông báo trong Cài đặt để cho bạn biết các yêu cầu không được đáp ứng.
+- Nếu bạn gặp sự cố sau khi nâng cấp lên Windows 11 và thiết bị của bạn không đáp ứng các yêu cầu hệ thống tối thiểu, chúng tôi khuyên bạn nên quay lại Windows 10.
+- Để quay lại Windows 10, hãy chọn:
+
+    ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/29126b28-21b0-44e8-88cf-a9aa51dbdfc2)
+  
+- Tùy chọn này chỉ khả dụng trong 10 ngày sau khi bạn nâng cấp, sau thời gian đó các tệp cần thiết để thực hiện chức năng này sẽ bị xóa để giải phóng dung lượng ổ đĩa trên thiết bị của bạn.
