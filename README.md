@@ -40,9 +40,11 @@ Source nguồn [WinToHDD bấm vào đây](https://bsthanh-my.sharepoint.com/:f:
 
 - **Nhớ tắt hết phần mềm virus.**
 - **Tắt Windows Depender.**
-- ![1](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/a7576d3b-1988-4c30-901b-aa3d3c036953)
-- ![2a](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/12e471ef-059d-4017-9315-f60c329911f6)
-- ![2](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/1770993c-6a6b-4d86-b669-dc8b1fe086ca)
+- Bấm chuột phải vào biểu tượng:
+- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/76aaa796-2dd6-4680-9b59-e765b2807b41)
+- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/deff0c84-ba17-4f4d-9a3f-331cbe482a17)
+- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/41cacaa7-83d4-44d0-9a0c-0cca8f002eb4)
+- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/9ecbba1a-7c3e-4b13-bdd1-87042d6b0ec5)
 
 Xem video Reinstall máy tính bằng [WinToHDD bấm vào đây](https://youtu.be/xKrz201CTXY)
 
