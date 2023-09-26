@@ -359,6 +359,7 @@ Download, cài đặt và hướng dẫn sử dụng [Bấm vào đây](https://
     - [Mọi phần mềm](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml#)
 36. [Download C++](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 37. [Google drive](https://www.google.com/drive/download/)
+38. [TetraBox](https://www.terabox.com/vietnamese/terabox-cloud-storage-for-pc-free-download)
 
 ## WINDOWS 10 NÂNG CẤP HOẶC TỰ ĐỘNG NÂNG CẤP LÊN WINDOWS 11 ##
 
