@@ -17,7 +17,7 @@ Tác giả: Nguyễn Chí Thành
 
 ### Cài lại Windows bằng [WinToHDD không cần USB Boot(https://github.com/BsNgChiThanh/WintoHDD) ###
 
-### [SOURCE NGUỒN CÀ CÀI ĐẶT WinToHDD](https://github.com/BsNgChiThanh/WintoHDD) ###
+### SOURCE NGUỒN CÀ CÀI ĐẶT [WinToHDD](https://github.com/BsNgChiThanh/WintoHDD) ###
 - Source nguồn [WinToHDD bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EijbbkIpIYFLqjZg2hFsA-gBiK4_Tv5eQgUBwz5DgnK6oA?e=cTACgT) giải nén, chạy file _Cai dat.cmd và _Tao portable.cmd bằng quyền Run Administrator, sau đó cài WinToHDD 5.1 Technician.exe là có bản quyền
 - **Nhớ tắt hết phần mềm virus.**
 - **Tắt Windows Depender:**
