@@ -14,18 +14,15 @@ Tác giả: Nguyễn Chí Thành
 ## 1. USB BOOT CỨU HỘ ##
 - Đây là món không thể thiếu trong sự nghiệp cài widows của bạn!
 - **[Nguồn tạo boot và cách tạo boot bấm vào đây](https://github.com/BsNgChiThanh/USB-BOOT)**
-
-### Cài lại Windows bằng [WinToHDD không cần USB Boot(https://github.com/BsNgChiThanh/WintoHDD) ###
-
-### SOURCE NGUỒN CÀ CÀI ĐẶT [WinToHDD](https://github.com/BsNgChiThanh/WintoHDD) ###
-- **Nhớ tắt hết phần mềm virus.**
-- **Tắt Windows Depender:**
-- Bấm chuột phải vào biểu tượng  Windows Depender ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/145c1ac8-fcfd-41e1-a332-f5ecb4a4afe6) sau đó chọn dòng **"View notification options"**
-- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/76aaa796-2dd6-4680-9b59-e765b2807b41)
-- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/deff0c84-ba17-4f4d-9a3f-331cbe482a17)
-- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/41cacaa7-83d4-44d0-9a0c-0cca8f002eb4)
-- ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/9ecbba1a-7c3e-4b13-bdd1-87042d6b0ec5)
-- Xem video Reinstall máy tính bằng [WinToHDD bấm vào đây](https://youtu.be/xKrz201CTXY)
+- **SOURCE NGUỒN CÀI ĐẶT [WinToHDD](https://github.com/BsNgChiThanh/WintoHDD)**  
+  - **Nhớ tắt hết phần mềm virus.**
+  - **Tắt Windows Depender:**
+  - Bấm chuột phải vào biểu tượng  Windows Depender ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/145c1ac8-fcfd-41e1-a332-f5ecb4a4afe6) sau đó chọn dòng **"View notification options"**
+  - ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/76aaa796-2dd6-4680-9b59-e765b2807b41)
+  - ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/deff0c84-ba17-4f4d-9a3f-331cbe482a17)
+  - ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/41cacaa7-83d4-44d0-9a0c-0cca8f002eb4)
+  - ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/9ecbba1a-7c3e-4b13-bdd1-87042d6b0ec5)
+  - Xem video Reinstall máy tính bằng [WinToHDD bấm vào đây](https://youtu.be/xKrz201CTXY)
 
 ## 2. DOWNLOAD CÁC SOURCE NGUỒN ##
 - **Các Source nguồn như Windows, Office, adobe, vv ...**
