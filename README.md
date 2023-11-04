@@ -61,10 +61,12 @@ Tác giả: Nguyễn Chí Thành
 - **[UnikeyNT](https://github.com/BsNgChiThanh/UniKeyNT)**
 
 ## 5. BỘT FONT VNI ĐẦY ĐỦ ##
-- **[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**, và **[font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**. Xem hướng dẫn **[tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
+- **[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**
+- **[Font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**.
+- **Xem hướng dẫn [tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
 
 ## 6. ULTRAISO ##
-- **[Phần mềm đọc file Iso](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EnJVZ5h8CGdBqQeO-zqHcMMBoBbsKxyxFBfXZi1dgNhqCg?e=9lehV6)**, xem hướng dẫn **[tại đây](http://thuthuatphanmem.vn/cach-dung-ultraiso-tu-a-z/)**
+- https://github.com/BsNgChiThanh/UltraisoPremium
 
 ## 7. PHẦN MỀM GỠ CÀI ĐẶT ##
 - Vào **Control Panel** các bạn có thể gỡ được, tuy nhiên đôi khi không gỡ sạch!
