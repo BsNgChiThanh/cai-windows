@@ -76,7 +76,7 @@ Tác giả: Nguyễn Chí Thành
   - Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch nó mà thôi, ví dụ như **Deepfreeze**, khi cài rồi bạn muốn gỡ nó sạch sẽ thì phải dùng phần mềm cài đặt nó, bấm cài đặt, hệ thống sẽ báo phần mềm này đã cài đặt rồi! Bạn muốn gỡ nó không? Lúc này bạn chọn gỡ và click OK là hoàn tất. **Math type** cũng vậy!
 
 ## ABBYY CHUYỂN ẢNH, PDF THÀNH WORD ##
-  - **[ABBYY](https://github.com/BsNgChiThanh/ABBYY)**
+  - https://github.com/BsNgChiThanh/ABBYY
 
 ## QUAY FILM MÀN HÌNH, CẮT GHÉP VIDEO, XEM VIDEO VỚI MỌI ĐUÔI VÀ CONVERT VIDEO ##
   - **[Quay Film màn hình với Apowerrec](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ephu5YdVGQlEtybotvcfqm0B_9u9-rQKBm4hDigc_XaaIw?e=f20zG4)**, xem hướng dẫn **[tại đây](https://tinhte.vn/thread/apowerrec-full-moi-nhat-2018-phan-mem-quay-man-hinh-tuyet-voi-cho-ban.2861099/)**
