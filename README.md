@@ -9,9 +9,9 @@ Tác giả: Nguyễn Chí Thành
   - Xong! 
 
 # Những tài nguyên cần thiết khi tiến hành cài windows #
-- **[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBiAtupnt7qgnJQfe0oeEHCQ?e=yOE5vS)**
+  - **[Partition Wizard Portable](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EiXvU0kbVAJPiqqi0tdklokBiAtupnt7qgnJQfe0oeEHCQ?e=yOE5vS)**
 
-## 1. USB BOOT CỨU HỘ ##
+## USB BOOT CỨU HỘ ##
 - Đây là món không thể thiếu trong sự nghiệp cài widows của bạn!
 - **[Nguồn tạo boot và cách tạo boot bấm vào đây](https://github.com/BsNgChiThanh/USB-BOOT)**
 - **SOURCE NGUỒN CÀI ĐẶT [WinToHDD](https://github.com/BsNgChiThanh/WintoHDD)**  
@@ -24,7 +24,7 @@ Tác giả: Nguyễn Chí Thành
   - ![image](https://github.com/BsNgChiThanh/cai-windows/assets/82578024/9ecbba1a-7c3e-4b13-bdd1-87042d6b0ec5)
   - Xem video Reinstall máy tính bằng [WinToHDD bấm vào đây](https://youtu.be/xKrz201CTXY)
 
-## 2. DOWNLOAD CÁC SOURCE NGUỒN ##
+## DOWNLOAD CÁC SOURCE NGUỒN ##
 - **Các Source nguồn như Windows, Office, adobe, vv ...**
 - **[Source Windows](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=0&single=true)** **hoạc [bấm vào đây](https://tb.rg-adguard.net/public.php)**
 - **[Source Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**, cài đặt và kích hoạt **[Office 365 for desktop](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
@@ -51,58 +51,60 @@ Tác giả: Nguyễn Chí Thành
 |[Link download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)|Windows10 EnterpriseS (LTSC) 2021|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EZrFruEJwENPids1I6A0NbQBwoO9cp4lw0O93TYyR8hKMQ?e=2pWW9r)|[Tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETKrzgP02GhCi4JDA1E_g4sBeNqy3r5w2voDaLLB3Hl15Q?e=8Nf2Ia)|
 
 - **[Hướng dẫn download windows10 tất cả các bản trong một](https://tinhte.vn/thread/cach-tai-file-iso-windows-10-truc-tiep-tu-microsoft-khong-can-key.3114586/)**
+  
   1. [Windows10 32 Bit AIO](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EU1TeWCWF3xIk-wQSD3XAOQBbPVKs-zknxGKgJps2O1zOw?e=q7yG87)
   2. [Windows10 64 Bit AIO](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EY0T-3JZMNhMposoR68Bgu4BVnsK29-UoQMaPMmAloR3IQ?e=zmDE96)
 
-## 3. WINZAR GIẢI NÉN ##
+## WINZAR GIẢI NÉN ##
 - **[WinZar mới nhất](https://github.com/BsNgChiThanh/Winzar)**, tham khảo hướng dẫn **[cài đặt](https://atpsoftware.vn/cach-cai-winrar-moi-nhat-2020-huong-dan-cai-dat.html)**
 
-## 4. BỘT UNIKEY PORTABLE MỚI NHẤT ##
-- **[UnikeyNT](https://github.com/BsNgChiThanh/UniKeyNT)**
+## BỘT UNIKEY PORTABLE MỚI NHẤT ##
+  - **[UnikeyNT](https://github.com/BsNgChiThanh/UniKeyNT)**
 
-## 5. BỘT FONT VNI ĐẦY ĐỦ ##
-- **[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**
-- **[Font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**.
-- **Xem hướng dẫn [tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
+## BỘT FONT VNI ĐẦY ĐỦ ##
+  - **[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**
+  - **[Font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**.
+  - **Xem hướng dẫn [tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
 
-## 6. ULTRAISO ##
-- https://github.com/BsNgChiThanh/UltraisoPremium
+## ULTRAISO ##
+  - https://github.com/BsNgChiThanh/UltraisoPremium
 
-## 7. PHẦN MỀM GỠ CÀI ĐẶT ##
-- Vào **Control Panel** các bạn có thể gỡ được, tuy nhiên đôi khi không gỡ sạch!
-- **[UnIntaller Pro sẽ giải quyết điều này](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ej4IS2C9DYlChZ7d2m6rM-sBqqwPuCJMr1TeqahUCvnk2w?e=Xrx7HM)**
-- Đôi khi một số phần mềm cần phải có file gỡ cài đặt chuyên dụng: Ví dụ: **[Avast antivirus](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Edsjoms0QVVDgRNYDeqNWAMB05aEchSrPLfUkDgH-Q6qxQ?e=TzP5dk)** ...
-- Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch nó mà thôi, ví dụ như **Deepfreeze**, khi cài rồi bạn muốn gỡ nó sạch sẽ thì phải dùng phần mềm cài đặt nó, bấm cài đặt, hệ thống sẽ báo phần mềm này đã cài đặt rồi! Bạn muốn gỡ nó không? Lúc này bạn chọn gỡ và click OK là hoàn tất. **Math type** cũng vậy!
+## PHẦN MỀM GỠ CÀI ĐẶT ##
+  - Vào **Control Panel** các bạn có thể gỡ được, tuy nhiên đôi khi không gỡ sạch!
+  - **https://github.com/BsNgChiThanh/UninstallerPro**
+  - Đôi khi một số phần mềm cần phải có file gỡ cài đặt chuyên dụng: Ví dụ: **[Avast antivirus](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Edsjoms0QVVDgRNYDeqNWAMB05aEchSrPLfUkDgH-Q6qxQ?e=TzP5dk)** ...
+  - Một số phần mềm khác thì chỉ có bản thân nó mới gỡ sạch nó mà thôi, ví dụ như **Deepfreeze**, khi cài rồi bạn muốn gỡ nó sạch sẽ thì phải dùng phần mềm cài đặt nó, bấm cài đặt, hệ thống sẽ báo phần mềm này đã cài đặt rồi! Bạn muốn gỡ nó không? Lúc này bạn chọn gỡ và click OK là hoàn tất. **Math type** cũng vậy!
 
-## 8. ABBYY CHUYỂN ẢNH, PDF THÀNH WORD ##
-- **[ABBYY](https://github.com/BsNgChiThanh/ABBYY)**
+## ABBYY CHUYỂN ẢNH, PDF THÀNH WORD ##
+  - **[ABBYY](https://github.com/BsNgChiThanh/ABBYY)**
 
-## 9. QUAY FILM MÀN HÌNH, CẮT GHÉP VIDEO, XEM VIDEO VỚI MỌI ĐUÔI VÀ CONVERT VIDEO ##
-- **[Quay Film màn hình với Apowerrec](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ephu5YdVGQlEtybotvcfqm0B_9u9-rQKBm4hDigc_XaaIw?e=f20zG4)**, xem hướng dẫn **[tại đây](https://tinhte.vn/thread/apowerrec-full-moi-nhat-2018-phan-mem-quay-man-hinh-tuyet-voi-cho-ban.2861099/)**
-- Quay Film màn hình và cắt ghép Video dung lượng cao: **[Camtasia Crack](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuSYntdTEDdAu6J4fNMQgkEBpmQC-KMeYWuf8KJg7rT98w?e=4Qp2DM)** hướng dẫn sử dụng **[bấm vào đây](https://tuhocdohoa.vn/huong-dan-su-dung-camtasia/)**
-- Khi cài Camtasia báo lỗi C++ thì quí vị gỡ C++ đi, sau đó vào Regedit, mở thư mục theo đường dẫn: Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Installer\Products\ sau đó click vào từng thư mục con, nếu thấy thư mục nào có phần C++ thì xóa chúng đi.
-- ![image](https://user-images.githubusercontent.com/82578024/232494391-317df2d4-bce3-4bf4-977b-b2bcc0cb41ef.png)
-- Sau đó cài lại C++ download [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdSZVUQCGP5Eo1u5nQDMOj8B5rkTv0ZnDiPWpNHZr-2ErA?e=nKWX35) hoặc từ [trang chủ](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-- Cài mới C++ xong, quí vị cài lại Camtasia bình thường.
-- Xem Video với mọi đuôi, Convert Video với: **[ToTal Video Converter 3.71](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eg_sqHU23AZMp600GJnhcNEBkaUh7aP4dtsyH6csuS6FRw?e=Nz06aq)** đọc hướng dẫn [tại đây](https://download123.vn/download-total-video-converter-full-key/) nếu bạn download source từ trang này thì pass giải nén là 112211 **(Lưu ý: file và thư mục lưu phải hoàn toàn không dấu, không kí tự đặc biệt)**, có thể chuyển file video sang định dạng *.ts định dạng này có độ nén cao, 1 Gb file dạng ts chuyển sang dạng mp4 thì dung lượng lên đến độ khoản 2,4 Gb.
+## QUAY FILM MÀN HÌNH, CẮT GHÉP VIDEO, XEM VIDEO VỚI MỌI ĐUÔI VÀ CONVERT VIDEO ##
+  - **[Quay Film màn hình với Apowerrec](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ephu5YdVGQlEtybotvcfqm0B_9u9-rQKBm4hDigc_XaaIw?e=f20zG4)**, xem hướng dẫn **[tại đây](https://tinhte.vn/thread/apowerrec-full-moi-nhat-2018-phan-mem-quay-man-hinh-tuyet-voi-cho-ban.2861099/)**
+  - Quay Film màn hình và cắt ghép Video dung lượng cao: **[Camtasia Crack](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EuSYntdTEDdAu6J4fNMQgkEBpmQC-KMeYWuf8KJg7rT98w?e=4Qp2DM)** hướng dẫn sử dụng **[bấm vào đây](https://tuhocdohoa.vn/huong-dan-su-dung-camtasia/)**
+  - Khi cài Camtasia báo lỗi C++ thì quí vị gỡ C++ đi, sau đó vào Regedit, mở thư mục theo đường dẫn: Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Installer\Products\ sau đó click vào từng thư mục con, nếu thấy thư mục nào có phần C++ thì xóa chúng đi.
+  - ![image](https://user-images.githubusercontent.com/82578024/232494391-317df2d4-bce3-4bf4-977b-b2bcc0cb41ef.png)
+  - Sau đó cài lại C++ download [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EdSZVUQCGP5Eo1u5nQDMOj8B5rkTv0ZnDiPWpNHZr-2ErA?e=nKWX35) hoặc từ [trang chủ](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+  - Cài mới C++ xong, quí vị cài lại Camtasia bình thường.
+  - Xem Video với mọi đuôi, Convert Video với: **[ToTal Video Converter 3.71](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eg_sqHU23AZMp600GJnhcNEBkaUh7aP4dtsyH6csuS6FRw?e=Nz06aq)** đọc hướng dẫn [tại đây](https://download123.vn/download-total-video-converter-full-key/) nếu bạn download source từ trang này thì pass giải nén là 112211 **(Lưu ý: file và thư mục lưu phải hoàn toàn không dấu, không kí tự đặc biệt)**, có thể chuyển file video sang định dạng *.ts định dạng này có độ nén cao, 1 Gb file dạng ts chuyển sang dạng mp4 thì dung lượng lên đến độ khoản 2,4 Gb.
 
-## 10. PHẦN MỀM PHỤC VỤ NGHIÊN CỨU KHOA HỌC ##
-- **[IBM SPSS](https://github.com/BsNgChiThanh/SPSS)**
+## PHẦN MỀM PHỤC VỤ NGHIÊN CỨU KHOA HỌC ##
+  - https://github.com/BsNgChiThanh/SPSS 
+  - https://github.com/BsNgChiThanh/lservrc
 
-## 11. KÍCH HOẠT OFFICE ##
-- **[Tạo Office 365 E5](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
-- **[Tạo Office 365 A1 Plus](https://github.com/BsNgChiThanh/Office-365-A1-A1-Plus)**
-- **[Kích hoạt Office bằng cmd](https://github.com/BsNgChiThanh/Kich-hoat-Office)**
+## KÍCH HOẠT OFFICE ##
+  - **[Tạo Office 365 E5](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
+  - **[Tạo Office 365 A1 Plus](https://github.com/BsNgChiThanh/Office-365-A1-A1-Plus)**
+  - **[Kích hoạt Office ](https://github.com/BsNgChiThanh/Kich-hoat-Office)**
 
-## 12. KÍCH HOẠT WINDOWS ##
-- **[Kích hoạt bằng Tool, cmd](https://github.com/BsNgChiThanh/Active-Windows)**
+## KÍCH HOẠT WINDOWS ##
+- https://github.com/BsNgChiThanh/Active-Windows
 
-## 13. CÀI MÁY IN ##
-- Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đây là khi cài máy in gặp lỗi, cài máy in chia sẻ gặp lỗi thì phải làm cách nào khắc phục?
-- **[Click vào đây để biết cách khắc phục](https://github.com/BsNgChiThanh/cai-may-in-may-chu-va-may-chia-se)**
+## CÀI MÁY IN ##
+  - Source nguồn máy in có đầy trên Google, tôi muốn đề cập ở đây là khi cài máy in gặp lỗi, cài máy in chia sẻ gặp lỗi thì phải làm cách nào khắc phục?
+  - **[Click vào đây để biết cách khắc phục](https://github.com/BsNgChiThanh/cai-may-in-may-chu-va-may-chia-se)**
 
-## 14. ĐỒ HỌA COREL ##
-- **[Corel cài đặt và kích hoạt](https://github.com/BsNgChiThanh/Kich-hoat-Corel)**
+## ĐỒ HỌA COREL ##
+  - https://github.com/BsNgChiThanh/Kich-hoat-Corel
 
 ## 15. PHẦN MỀM HÌNH HỌC ##
 - **[Cabri II Plus Portal - Hình học phẳng](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EmrELhPGCZdOgQdACbWVh4UB4vg1oT22ZskZencdIBforg?e=aaRTYo)**, xem hướng dẫn **[tại đây](https://www.google.com/amp/s/quantrimang.com/cach-cai-dat-va-su-dung-phan-mem-ve-hinh-toan-hoc-cabri-ii-plus-155849%3fmode=amp)**
