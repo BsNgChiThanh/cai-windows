@@ -109,7 +109,10 @@ Tác giả: Nguyễn Chí Thành
 ## PHẦN MỀM HÌNH HỌC ##
   - https://github.com/BsNgChiThanh/Cabri-PhanMemHinhHoc
 
-## 16. PHẦN MỀM TẠO CÔNG THỨC TOÁN HỌC ##
+## NITRO PRO chỉnh sửa PDF rất tiện lợi
+  - https://github.com/BsNgChiThanh/NitroPro
+
+## PHẦN MỀM TẠO CÔNG THỨC TOÁN HỌC ##
   - https://github.com/BsNgChiThanh/MathType
 
 ## MÁY TÍNH CASIO ##
@@ -130,7 +133,7 @@ Tác giả: Nguyễn Chí Thành
   - **[Phục hồi chúng bằng Recuva](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Edh6BeNCjDJNkdBr3kJMiacBL1GVIVB1IFVFVIuJGEwXlQ?e=0J5sZN)**
   - Xem hướng dẫn **[sử dụng](https://tinhocvanphong.edu.vn/cach-su-dung-phan-mem-recuva/)**
 
-## 22. DRIVER OFFLINE ###
+## DRIVER OFFLINE ###
   - Trước khi cài lại máy tính các bạn nên dùng Dism++ để sao lưu driver và bản quyền Windows, office của mình, nếu quên khi cài mới thiếu diver thì giải pháp dùng **[EasyDrv7](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Es04kIshd7JHl-fsKSGUCvQBMorwCJ5O843yKHSqnFsp5g?e=fF18us)**, hoặc cũng có thể chọn driver online **[3DP Chip](https://www.3dpchip.com/3dp/chip_down_lite.php?pl=vi)**
   - **[Xem hướng dẫn sử dụng EasyDrv7](https://www.tienichmaytinh.net/tai-bo-cai-driver-offline-easydrv7-day-du-cho-windows-moi-nhat)**, **[hướng dẫn sử dụng 3DP Chip](https://www.google.com/amp/s/quantrimang.com/cach-dung-3dp-chip-cap-nhat-hoac-cai-moi-driver-con-thieu-cho-may-tinh-150009%3fmode=amp)**
 
