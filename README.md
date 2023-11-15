@@ -61,7 +61,7 @@ Tác giả: Nguyễn Chí Thành
 ## BỘT UNIKEY PORTABLE MỚI NHẤT ##
   - **[UnikeyNT](https://github.com/BsNgChiThanh/UniKeyNT)**
 
-## BỘT FONT VNI ĐẦY ĐỦ ##
+## [BỘT FONT](https://github.com/BsNgChiThanh/font) ##
   - **[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**
   - **[Font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**.
   - **Xem hướng dẫn [tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
