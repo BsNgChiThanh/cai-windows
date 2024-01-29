@@ -64,6 +64,7 @@ Tác giả: Nguyễn Chí Thành
 ## [BỘT FONT](https://github.com/BsNgChiThanh/font) ##
   - **[Font VNI](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/Eukq-IAKDwNLjQnQBQeRkswBvRNTi3NEaMfUYbZQOQhZgA?e=wvcF5k)**
   - **[Font chữ tiểu học](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EvjEX_YZseFPmE2JdKDvMoMBzl9iK6EjYbYKLnGhUeH4Dw?e=8ai8RV)**.
+  - **[Font thiết kế (8420 font)](https://1drv.ms/f/s!AuSa--rFNj520k7xmhKy7NPnfIna?e=M6R6vf)
   - **Xem hướng dẫn [tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
 
 ## ULTRAISO ##
