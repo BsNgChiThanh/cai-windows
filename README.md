@@ -255,7 +255,8 @@ pause>NUL
 36. [Download C++](https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 37. [Google drive](https://www.google.com/drive/download/)
 38. [TetraBox](https://www.terabox.com/vietnamese/terabox-cloud-storage-for-pc-free-download)
-
+39. [Download vmware](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
+    
 ## WINDOWS 10 NÂNG CẤP HOẶC TỰ ĐỘNG NÂNG CẤP LÊN WINDOWS 11 ##
 - Không nên cài đặt Windows 11 trên thiết bị không đáp ứng yêu cầu hệ thống tối thiểu của Windows 11. Nếu chọn cài đặt Windows 11 trên phần cứng không đủ điều kiện, bạn nên thoải mái chấp nhận rủi ro gặp phải sự cố tương thích.
 - Thiết bị của bạn có thể gặp trục trặc do khả năng tương thích này hoặc các vấn đề khác. Các thiết bị không đáp ứng các yêu cầu hệ thống này sẽ không còn được đảm bảo nhận được các bản cập nhật, bao gồm nhưng không giới hạn ở các bản cập nhật bảo mật.
